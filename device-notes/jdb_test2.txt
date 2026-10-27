@@ -1,0 +1,15 @@
+﻿����δ����� java.lang.Throwable
+�����ӳٵ�δ����� java.lang.Throwable
+���ڳ�ʼ��jdb...
+> ��: java.lang.System
+��չ: java.lang.Object
+Ƕ��: java.lang.System$PropertiesWithNonOverrideableDefaults
+> com.sun.tools.example.debug.expr.ParseException: Name unknown: java.lang.System.currentTimeMillis
+com.sun.tools.example.debug.expr.ParseException: Name unknown: java.lang.System.currentTimeMillis
+ java.lang.System.currentTimeMillis() = ��ֵ
+ (java.lang.System.currentTimeMillis()) = ��ֵ
+> > ���öϵ�com.baiyi.homeui.hshomeui.MainActivity.onRefreshUI(com.baiyi.homeui.hshomeui.entity.PcInfo)
+> �ϵ㼯:
+	�ϵ�com.baiyi.homeui.hshomeui.MainActivity.onRefreshUI(com.baiyi.homeui.hshomeui.entity.PcInfo)
+> > δ�����κζ���
+�������ѹرա�

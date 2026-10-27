@@ -1,0 +1,10 @@
+[+] verified target serial TC26011200324725
+[*] encoding: 1280x720 @30fps h264 3000kbps, source=testsrc
+[*] transport: progressive MPEG-TS
+[+] MPEG-TS over HTTP listening on 127.0.0.1:18114/live.ts
+[+] adb reverse tcp:18114 -> host 18114 (18114)
+
+Streaming. Press Ctrl+C to stop. (duration 10s)
+  t=   1s  streamed=        0 B  now=  0.00 Mbps  enc_fps=  0.0  enc_bitrate=     0 kbps  frame=      0  req=0     t=   2s  streamed=        0 B  now=  0.00 Mbps  enc_fps=  0.0  enc_bitrate=     0 kbps  frame=      0  req=0   [*] device connected to stream server from 127.0.0.1:49389
+  t=   3s  streamed=  669,656 B  now=  5.36 Mbps  enc_fps=  0.0  enc_bitrate=     0 kbps  frame=     10  req=1     t=   4s  streamed=1,804,048 B  now=  9.08 Mbps  enc_fps=  0.0  enc_bitrate=     0 kbps  frame=    117  req=1     t=   5s  streamed=2,225,732 B  now=  3.37 Mbps  enc_fps=  0.0  enc_bitrate=     0 kbps  frame=    147  req=1     t=   6s  streamed=2,634,068 B  now=  3.27 Mbps  enc_fps=  0.0  enc_bitrate=     0 kbps  frame=    177  req=1     t=   7s  streamed=2,952,352 B  now=  2.55 Mbps  enc_fps=  0.0  enc_bitrate=     0 kbps  frame=    208  req=0     t=   8s  streamed=2,952,352 B  now=  0.00 Mbps  enc_fps=  0.0  enc_bitrate=     0 kbps  frame=    208  req=0     t=   9s  streamed=2,952,352 B  now=  0.00 Mbps  enc_fps=  0.0  enc_bitrate=     0 kbps  frame=    208  req=0   
+[*] stream stopped, reverse removed.

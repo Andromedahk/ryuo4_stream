@@ -1,0 +1,3 @@
+﻿suspend
+eval 1+1
+print 3+3

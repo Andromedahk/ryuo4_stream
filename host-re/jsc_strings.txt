@@ -1,0 +1,7938 @@
+~vNn
+Rb*`4U
+Rb:@
+Rbn@
+Rb~@
+Rb"A
+Rb*!*5
+Rb.!
+RbR!D5
+RbVA
+Rbfari
+Rb"B
+Rb:B<s
+RbZb
+RbZ"
+Rbrb
+Rbr"
+Rb2C
+Rb6#
+Rbbc
+Rb.d
+RbJd
+RbR$
+Rbj$'
+Rbnd
+Rbrd
+RbrD
+Rb.e&
+RbrEA
+Rbre5
+Rb2Fa
+Rbbfy
+Rb*'g
+Rb>g}
+Rb>'
+Rbb'
+Rb~G
+Rb~G
+RbVh
+Rb^h
+Rbfh
+Rb.i(Y
+RbjI
+RbriHY
+RbZ*hv
+RbvJ#
+Rb*K
+Rb2k
+RbVK
+RbbK
+Rbjk
+Rb"lo
+Rb6L
+RbVl
+RbRM
+Rbb-
+Rbb-}
+__dirname
+Rb2nQ
+RbjNj>
+Rb2O
+Rb>o~
+RbNO
+Rb^/+
+RbnO
+RbZ0
+Rb^p
+Rb^0
+Rbn0
+Rb~pM
+Rb:Q
+Rb^q
+RbbQo
+RbjQO
+RbZ1
+Rb"r
+Rb^2
+RbjrX`
+Rb>3
+RbVs
+RbbS
+Rbf3
+Rbns
+Rbn35
+RbVS%
+Rb2T
+RbRTw
+RbjT\J
+Rb"U
+Rb&u5
+RbNv
+RbBv
+Rb6w
+Rb6W
+Rbf7o
+RbbwNY
+Rbj8
+Rb>yw$
+Rbvy#
+Rb:z
+Rb>:*6
+RbR:
+exports
+Rb";
+Rb.{
+Rb6;
+RbF{
+Rb^{
+Rbr;
+Rbz{
+Rb><.
+RbF|y
+Rbr\
+RbJ=T
+Rbb]
+Rb&^LF
+Rb^^G
+Rbv>T8
+Rb._
+Rb2?2
+RbR_
+create
+toStringTag
+$Rg2
+evalmachine.<anonymous>
+pL`4
+0Rj:
+ERROR_CODE_SERIALPORT_COM_CONFILICT
+SCgP
+`S(u)
+4Rkf
+ERROR_CODE_SERIALPORT_PERMISSION_DENIED
+R1Y%
+ERROR_CODE_ADB_SERVER_START_FAILED
+R1Y%
+ERROR_CODE_ADB_CONNECT_SERVER_FAILED
+_8^]
+ERROR_CODE_ADB_DEVICE_STATUS_ERROR
+y~lvj/
+S1Y%
+ERROR_CODE_HWINFO_INIT_FAILED
+ZSO }Pg
+d\O1Y%
+bcI{
+8RlN[
+ERROR_CODE_MEDIA_STATION_OPEARTION_FAILED
+ZSO }Pg O
+ERROR_CODE_MEDIA_TRANSPORT_FAILED
+~1Y%
+N1Y%
+ERROR_CODE_UPGRADE_FIRMWARE_DOWNLOAD_FAILED
+~1Y%
+8Rl2
+ERROR_CODE_UPGRADE_FIRMWARE_MD5_CHECK_FAILED
+~1Y%
+ERROR_CODE_UPGRADE_FIRMWARE_DEVICE_DISCONNTED
+~1Y%
+N1Y%
+8Rlj
+ERROR_CODE_UPGRADE_FIRMWARE_TRANSPORT_FAILED
+~1Y%
+~1Y%
+ERROR_CODE_UPGRADE_FIRMWARE_NOTITY
+mainWindow
+setMainWindows
+isDestroyed
+webContents
+send
+(Kh>
+notifyMainWindows
+ryuo
+init`
+waterBlockScreenEnable
+enable
+Rdf$
+enableSet
+waterBlockScreenDisplayInSleepMode
+displayInSleepMode
+displayInSleepModeSet
+(RhbA
+waterBlockScreenBrightness
+brightness
+ Kf*
+brightnessSet
+DaJ 
+waterBlockScreenRotate
+rotate
+Rd*)C
+rotateSet
+Dad!
+recordTipsHadShow
+debug
+recordTipsHadShowSet
+ Kf*
+turboPump
+Da6#
+turboPumpSet
+appVersion
+Da>$
+appVersionSet
+firmwareVersion
+DaV%
+firmwareVersionSet
+Da>&
+snSet
+waterfallMode
+waterfallModeSet`
+Dan'
+$Sb@
+waterBlockScreenId
+idSet
+waterBlockScreenCustomScreenMode
+customScreenMode`
+ Rf6
+customScreenModeSet
+waterBlockScreenCustomScreenFull
+customScreenFull`
+DaR*
+customScreenFullSet
+waterBlockScreenCustomScreenSplitting
+$RgrO
+customScreenSplitting
+customScreenSplittingSet`
+Daf,
+modeC
+fullScreen
+screenSplitting
+4KkR
+customAll
+8Kl^
+customAllSet`
+waterBlockScreenCustomMedia
+customMedia
+customMediaSet
+Da01
+warn
+Current media has 
+push
+4KkX
+customMediaAdd
+HL` 
+waterBlockScreenList
+Rbv,
+find
+Customization
+screenMode
+Full Screen
+Screen Splitting
+media
+playMode
+settings
+sysinfoDisplay
+customList
+Da&3
+$Sb@
+displayInformations
+displayInformationsTitleColor
+,Ri~
+displayInformationsContentColor
+displayInformationsOverlay
+displayInformationsBadges
+infomations
+titleColor
+RdV#
+contentColorC
+filter
+badges
+<Kmh
+displayInformationsPreset
+Da~7
+$Rgj
+displayInformationsSet
+,Rij
+displayInformationsTitleColorSet
+displayInformationsContentColorSet
+displayInformationsOverlaySet
+(RhF
+displayInformationsBadgesSet
+0KjN
+displayInformationsPresetSet`
+0Rjbw
+waterBlockScreenDisplayInformations
+Dah;
+Failed to set display information.
+(Kh<
+Da <
+waterBlockScreenDisplayInformationsTitleColor
+Daj=
+DaJ>
+<Rmn
+waterBlockScreenDisplayInformationsContentColor
+Da ?
+waterBlockScreenDisplayInformationsOverlay
+waterBlockScreenDisplayInformationsBadges
+DapB
+Da@C
+HL` 
+presetMedia
+(Rhz3Cn
+waterBlockScreenPresetMedia
+Ryuo IV Standard
+Ryuo IV MIKU ACC
+Ryuo IV MIKU WW
+Onezone
+Split(left side)
+ Rf>
+Split(right side)
+ratio
+Da"F
+8KlZ
+<Kmb
+presetMediaSet
+Rb^%~V
+thumb
+DanI
+,KiB
+resetDefaultMediaThumb
+DaJ\
+$Sb@
+instance
+ Kf,
+getInstance
+Rd~AI
+performance
+Rbj+
+time`
+Da ]
+ Kf0
+timeEnd
+BYTE
+statSync
+Rc6%
+silly
+File size:
+bytes
+error
+Failed to get file; Error:
+<Kmf
+existsSync
+mkdirSync
+recursive
+Rb"0]
+RcR6
+getPath
+Rb:k
+home
+temp
+userData
+DaPa
+Rb:u
+logs
+Dazb
+Dald
+process
+RbZ?
+PROGRAMDATA
+$Kg6
+Buffer
+alloc
+copy
+ Kf0
+Da2f
+getFullYear
+getMonth
+padStart
+getDate
+8Kl\
+getHours
+getMinutes
+Rdr_
+getSeconds
+getMilliseconds
+Dazj
+DaFm
+setTimeout
+dirname
+Da>n
+static
+RdjH
+toUpperCase
+pL`4
+waterBlockScreenWaterfallMode
+ Rfrw7
+waterBlockScreenFan
+waterBlockScreenDisplayInformationsAlign
+waterBlockScreenDisplayInformationsPosition
+Da"p
+defaultsC
+beforeEachMigration
+migrations
+Ryuo IV
+0Rj:
+[Ryuo store-config] migrate from 
+fromVersion
+toVersion
+Dab}
+<Kmd
+0.3.2
+pathI
+$RgJ
+RYUO_IV_HW_Info_01.mp4
+$Rgf
+RYUO_IV_HW_Info_02.mp4
+$Rg2
+RYUO_IV_HW_Info_03.mp4
+RYUO_IV_HW_Info_04.mp4
+$RgB
+RYUO_IV_HW_Info_05.mp4
+Ryuo_IV_MIKU_ACC_01.mp4
+Ryuo_IV_MIKU_ACC_02.mp4
+Ryuo_IV_MIKU_ACC_03.mp4
+Ryuo_IV_MIKU_ACC_04.mp4
+Ryuo_IV_MIKU_WW_01.mp4
+Ryuo_IV_MIKU_WW_02.mp4
+Ryuo_IV_MIKU_WW_03.mp4
+Ryuo_IV_MIKU_WW_04.mp4
+0.7.3
+strix
+ Kf*
+deviceAppVersion
+$Rgb<
+deviceFirewareVersion
+$Sb@
+currentThemeBg
+currentThemeBgSet
+strixCustomMedia
+4KkX
+screenDirection
+displayInfo
+HKp|
+Ren"
+strixPresetMedia
+Rd"L
+Landscape
+Portrait
+(Kh<
+devicesInfo
+Strix RO
+[Strix store-config] migrate from 
+<Kmd
+closeAction
+$Kg8
+lL`2
+isMaximized
+getBounds
+screen
+ Rf^
+getDisplayMatching
+workArea
+Math
+width
+height
+(RhV
+Toggle Check: SystemFlag=
+, VisualCheck=
+Bounds: 
+, WorkArea: 
+unmaximize
+setBounds
+center
+maximize
+minimize
+Window minimize
+quit
+exit
+exitForce
+Re^m
+closeAction: 
+Quit
+MinimizeWithTray
+setSkipTaskbar
+0KjL
+show
+hide
+show: 
+(Kh@
+isAbsolute
+RcR%
+extname
+toLowerCase
+@Knp
+0KjL
+parseMediaInfo:
+split
+\r?\n
+Rc2xZ
+forEach
+`L`,
+RdV{R
+trimStart
+startsWith
+Duration:
+Duration line:
+duration
+mediaInfo.duration:
+Rcnl
+Stream 
+includes
+Video:
+Video line:
+video
+mediaInfo.video:
+Audio:
+Rd^Bri
+Audio line:
+audio
+mediaInfo.audio:
+(Kh<
+parseDurationLine; duration:
+replace
+Duration: 
+count
+start
+bitrate
+parseInt
+start:
+bitrate:
+8Kl`
+LL`"
+parseVideoLine; duration:
+\(.*?\)
+duration:
+Video: 
+videoArr:
+`L`,
+$Rg>
+videoInfoString; item:
+trim
+codec
+resolution
+kb/s
+unknown item:
+videoStream:
+$Rgf
+parseAudioLine; audio:
+Audio: 
+audio item:
+samepleRate
+mixdown
+8KlZ
+Media path is null or empty
+RbZ~[p
+.png
+.jpg
+.jpeg
+.gif
+RcBN!
+" -i "
+RdzN
+mediaInfo:
+$#,!O
+File not exist. mediaPath: 
+HKp|
+\L`*
+mediaInfoInner:
+HH:mm:ss.SS
+diff
+startOf
+metadata
+frames
+pages
+,KiD
+dL`.
+noAudio
+outputOptions
+-movflags faststart
+-pix_fmt yuv420p
+videoFilter
+WJZ!
+scale=trunc(iw/2)*2:trunc(ih/2)*2
+output
+progress
+gifToVideo Processing: 
+JSON
+stringify
+Rc&i
+% done
+$Kg2
+gifToVideo Media; Spawned Ffmpeg with command: 
+gifToVideo Transcoding succeeded ! output:
+ Kf.
+<Rmr
+gifToVideo; Failed to convert gif to mp4; Error:
+4RkJ
+Failed to convert gif to video; Error: 
+$Kg4
+stderr
+(Rh.]
+gifToVideo; Stderr output: 
+Rb.j 3
+deviceScreenWidth
+ RfR{&
+deviceScreenHeight
+animatedG
+resize
+Rcb.
+toFile
+catch
+Failed to scale images; Error: 
+(Kh<
+4KkV
+,KiF
+setFfmpegPath
+Re*"
+MediaStation.dll
+Library
+VideoClip
+int64
+pointer
+StopClip
+ImageClip
+ScreenRecBegin
+ScreenRecPause
+ScreenRecRestore
+ScreenRecStop
+CatchVideoFrame
+CatchGifFrame
+GetVideoInfo
+GetGifInfo
+,KiH
+videoClip start
+Failed to init mediaStattion
+,KiD
+$Kg6
+LL`"
+$RgR
+screenRecBegin nScreen: 
+    nDuration: 
+    nFps: 
+    nBiteRate: 
+    nPosX: 
+    nPosY: 
+    nWidth: 
+    nHeight: 
+    nVideoWidth: 
+    nVideoHeight: 
+Rcz6
+    
+DKor
+$Kg6
+(Kh>
+$Kg6
+$Kg6
+$Kg6
+$Kg6
+8Rlf
+Failed to init mediaStattion [checkAndInit]
+LLa"
+record callback
+Rcjr
+session:
+; progress:
+record ended:
+copyFileSync
+promises
+recorder start
+basename
+DKov
+recorder stop
+ Kf0
+recorder cancel
+$Kg8
+setRecordPath:
+ReRj
+sendRecordPath
+ RfR
+ryuo:recordCompleted
+.mp4
+BrowserWindow
+fullscreen
+alwaysOnTop
+ReJ({
+autoHideMenuBar
+Rd~B,4
+transparent
+frame
+titleBarOverlay
+#ffffff
+iconC
+Re^4
+webPreferences
+ Rfr
+../../build/icon.ico
+preload
+sandbox
+devToolsG
+contextIsolationG
+Rd2:
+webSecurity
+../preload/index.js
+isPackaged
+ELECTRON_RENDERER_URL
+RcReH
+loadURL
+recordWindow
+RcnP
+loadFile
+$RgJ
+../renderer/index.html
+hash
+record
+globalShortcut
+register
+destroy
+setIgnoreMouseEvents
+closed
+unregister
+RcrW
+forward
+(Kh:
+ Kf,
+getPrimaryDisplay
+;NO\U^
+$Kg8
+$Rgj
+shortcutsScreenRecording
+shortcutsMinimization
+(Kh>
+ Rfn\
+shortcuts unregister
+ Kf*
+shortcuts unregister all
+unregisterAll
+ Kf*
+(Rh~
+shortcuts register restore
+ Kf*
+ Kf.
+4KkT
+ Kf,
+0KjP
+isRegistered
+ReN"
+screen recording
+/record
+0KjJ
+,KiH
+__esModule
+hasOwnProperty
+call
+ Kf,
+Rb:?
+0KjL
+Rc2J@
+slice
+$Kg4
+isArray
+RcBYK2
+isBuffer
+(Kh<
+isView
+(Kh<
+(Kh<
+Rb6v
+pipe
+[object FormData]
+FormData
+(Kh>
+^\s+|\s+$
+navigator
+product
+ReactNative
+NativeScript
+window
+document
+(Kh@
+DaV!
+0KjL
+,KiF
+charCodeAt
+assign
+(Kh>
+getOwnPropertyNames
+indexOf
+(Kh>
+4KkT
+encodeURIComponent
+,KiD
+isURLSearchParams
+isDate
+toISOString
+isObject
+0KjP
+,KiB
+Rc6{5!
+handlers
+Dal1
+synchronous
+runWhen
+(Kh@
+DaX4
+$Kg4
+AxiosError
+config
+request
+RcRm
+response
+,KiH
+Da@5
+description
+fileNameC
+lineNumber
+columnNumberC
+0KjL
+toFlatObject
+Da@<
+4KkX
+isArrayBuffer
+Rd>W
+isTypedArray
+RbvWd
+Blob
+0KjJ
+Da">
+Da\?
+isPlainObject
+Circular reference detected in 
+isUndefined
+endsWith
+toArray
+append
+HKp~
+Rb6v-
+$Kg6
+validateStatus
+,RiZE
+Request failed with status code 
+ReRQ~
+ERR_BAD_REQUEST
+Rez&
+ERR_BAD_RESPONSE
+@Knj
+DafC
+(Kh:
+Da@E
+isStandardBrowserEnv
+write
+readC
+remove
+isNumber
+expires=
+toGMTString
+isString
+path=
+domain=
+secure
+cookie
+match
+RdNja
+(^|;\s*)(
+)=([^;]*)
+decodeURIComponent
+(Kh:
+DajI
+0KjP
+^([a-z][a-z\d+\-.]*:)?\/\/
+test
+Da2J
+\/+$I
+^\/+
+DaXK
+LM`"
+authorization
+content-length
+Rd*G
+content-type
+etag
+expires
+host
+if-modified-since
+if-unmodified-since
+last-modified
+location
+max-forwards
+proxy-authorization
+referer
+retry-after
+user-agent
+substr
+set-cookie
+concat
+DalN
+$Kg2
+,KiD
+Da,P
+LL`"
+setAttribute
+protocolC
+search
+hostnameC
+portC
+pathnameC
+Rb.R
+charAt
+ReFg
+(msie|trident)
+userAgent
+createElement
+$Kg4
+DazT
+8KlZ
+DaTU
+Da0U
+0KjP
+canceled
+ERR_CANCELED
+CanceledError
+RcV_9
+inherits
+__CANCEL__
+0KjL
+(Rh^
+^([-+\w]{1,25})(:?\/\/|:)
+DaZW
+Da0Y
+cancelToken
+unsubscribe
+signal
+removeEventListener
+abort
+$Kg4
+getAllResponseHeaders
+text
+json
+RdnWh1
+responseText
+dataC
+RdfT
+statusText
+headers
+Da$_
+<Kmh
+Da<]
+responseType
+isFormData
+Content-Type
+XMLHttpRequest
+RbBEd
+auth
+usernameI
+password
+unescape
+Basic 
+btoa
+Authorization
+baseURL
+open
+Rc:&
+method
+params
+ReVO
+paramsSerializer
+timeout
+onloadend
+readyState
+RdJ[
+responseURL
+file:
+$Kg8
+onreadystatechange
+Request aborted
+Rd^3
+ECONNABORTED
+onabort
+Network Error
+ERR_NETWORK
+!h%_
+Data
+onerror
+timeout of 
+ms exceeded
+timeout exceeded
+Rd:)b
+transitional
+timeoutErrorMessage
+ Rf:
+clarifyTimeoutError
+RdV<i
+ETIMEDOUT
+8KlZ
+ontimeout
+withCredentials
+xsrfCookieName
+xsrfHeaderName
+setRequestHeader
+ Kf,
+Da*e
+onDownloadProgress
+addEventListener
+onUploadProgress
+upload
+$Kg8
+Rd"2
+subscribe
+aborted
+http
+https
+file
+Unsupported protocol 
+^(-?(?:\d+)?\.?\d+) *(milliseconds?|msecs?|ms|seconds?|secs?|s|minutes?|mins?|m|hours?|hrs?|h|days?|d|weeks?|w|years?|yrs?|y)?$
+parseFloat
+mins
+secs
+Rc~|
+msecs
+msecaX
+round
+(Kh@
+$Kg8
+isFinite
+DRoR
+val is not a non-empty string or a valid number. val=
+<Kmh
+DaZl
+DKov
+tL`6
+colors
+<Kmf
+Da>x
+LL`"
+DaZy
+TL`&
+enabled
+prev
+curr
+Rc~%Tk
+coerce
+Rcn:/
+unshift
+%([a-zA-Z%])
+formatters
+splice
+@Knj
+Da8{
+Rd")?c
+formatArgs
+namespace
+useColors
+selectColor
+extend
+RdF$>,
+namespaces
+(Kh<
+$Kg4
+LL`"
+save
+names
+Rcz-
+skips
+[\s,]+
+0KjP
+substring
+\.\*\?$
+$Kg6
+Instance method `debug.destroy()` is deprecated and no longer does anything. It will be removed in the next major version of `debug`.
+disable
+humanize
+load
+$Kg2
+Datv
+dL`.
+pL`4
+renderer
+__nwjs
+(edge|trident)\/(\d+)
+documentElement
+WebkitAppearance
+Rc61
+firebug
+table
+Rerr(*
+firefox\/(\d+)
+applewebkit\/(\d+)
+TL`&
+RcRZh*
+color: 
+color: inherit
+%[a-zA-Z%]
+storage
+setItem
+removeItem
+getItem
+DEBUG
+,KiF
+localStorage
+#0000CC
+#0000FF
+#0033CC
+#0033FF
+#0066CC
+#0066FF
+#0099CC
+#0099FF
+#00CC00
+Rc2G1n
+#00CC33
+#00CC66
+#00CC99
+Rcn(
+#00CCCC
+#00CCFF
+Rc~60p
+#3300CC
+#3300FF
+#3333CC
+#3333FF
+#3366CC
+#3366FF
+#3399CC
+#3399FF
+#33CC00
+#33CC33
+#33CC66
+#33CC99
+#33CCCC
+#33CCFF
+#6600CC
+#6600FF
+#6633CC
+#6633FF
+#66CC00
+#66CC33
+Rc"@
+#9900CC
+RcFsh
+#9900FF
+#9933CC
+#9933FF
+#99CC00
+#99CC33
+#CC0000
+#CC0033
+#CC0066
+#CC0099
+RcNm
+#CC00CC
+#CC00FF
+#CC3300
+#CC3333
+#CC3366
+#CC3399
+#CC33CC
+#CC33FF
+#CC6600
+#CC6633
+#CC9900
+Rcz[:m
+#CC9933
+#CCCC00
+#CCCC33
+#FF0000
+#FF0033
+#FF0066
+#FF0099
+#FF00CC
+#FF00FF
+#FF3300
+#FF3333
+#FF3366
+#FF3399
+Rc~bw
+#FF33CC
+#FF33FF
+#FF6600
+#FF6633
+#FF9900
+#FF9933
+#FFCC00
+#FFCC33
+(RhR
+[UnexpectedJSONParseError]: 
+ Kf*
+ Kf*
+argv
+,KiH
+lL`2
+FORCE_COLOR
+<Kmf
+level
+Rc6U/
+hasBasicG
+has256
+has16m
+streamIsTTY
+sniffFlags
+RdVg
+color=16m
+color=full
+Revk
+color=truecolor
+color=256
+TERM
+dumb
+platform
+RcVm
+win32
+release
+RcjBe)
+TRAVIS
+CIRCLECI
+APPVEYOR
+GITLAB_CI
+GITHUB_ACTIONS
+BUILDKITE
+DRONE
+some
+CI_NAME
+codeship
+TEAMCITY_VERSION
+,Ri~
+^(9\.(0*[1-9]\d*)\.|\d{2,}\.)
+COLORTERM
+truecolor
+TERM_PROGRAM
+TERM_PROGRAM_VERSIONI
+iTerm.app
+Apple_Terminal
+-256(color)?$
+^screen|^xterm|^vt100|^vt220|^rxvt|color|ansi|cygwin|linux
+0y%]
+Rc:x
+isTTY
+$Kg2
+no-color
+Rd2.
+no-colors
+color=false
+Rd"#6
+color=never
+color=true
+color=always
+supportsColor
+RcbZ
+stdout
+Rc:.
+isatty
+Rdf@^
+inspectOpts
+$Kg8
+PL`$
+8;5;
+Rb&iF
+RcF;
+RbZ7
+hideDateI
+ Kf,
+ Kf0
+4KkR
+deprecate
+^debug_
+reduce
+_([a-z])
+^(yes|on|true|enabled)$
+(Rhb
+^(no|off|false|disabled)$
+<Kmf
+inspect
+,KiF
+ Kf*
+browser
+0KjP
+follow-redirects
+(Kh>
+$Kg2
+_sanitizeOptions
+_options
+Rc:B
+_ended
+_ending
+Re"+7
+_redirectCount
+_redirects
+ Rff
+_requestBodyLength
+_requestBodyBuffers
+_processResponse
+RbB:6C
+emit
+$Kg6
+ RfvNi
+_onNativeResponse
+_performRequest
+maxRedirects`*
+maxBodyLength
+nativeProtocols
+Rcbp*
+equal
+protocol mismatch
+options
+defineProperties
+<Kmh
+(Kh<
+parse
+,KiH
+^\[[:0-9a-f]+\]$
+$Rgb
+^\[[:0-9a-f]+\](:\d+)?$
+DKot
+(Kh@
+0KjL
+ RfJ
+captureStackTrace
+0KjP
+Error [
+4KkR
+removeListener
+(Kh@
+(Kh<
+,KiD
+Writable
+ERR_INVALID_URL
+query
+connect
+socket
+_redirectable
+Invalid URL
+(Rh*T
+ERR_FR_REDIRECTION_FAILURE
+Redirected request failed
+ERR_FR_TOO_MANY_REDIRECTS
+Maximum number of redirects exceeded
+ERR_FR_MAX_BODY_LENGTH_EXCEEDED
+Request body larger than maxBodyLength limit
+ERR_STREAM_WRITE_AFTER_END
+write after end
+_currentRequest
+ Kf,
+LL`"
+[J$-
+data should be a string, Buffer or Uint8Array
+encodingC
+@Knn
+setHeader
+removeHeader
+addListener
+ Kf0
+_timeout
+clearTimeout
+$Kg4
+close
+HKpz
+once
+@Knj
+flushHeaders
+getHeader
+setNoDelay
+ RfVoJ
+setSocketKeepAlive
+connection
+ Kf,
+DKor
+pL`4
+agents
+agent
+_currentUrl
+_isRedirect
+finished
+@Knj
+(Kh@
+statusCode
+trackRedirects
+followRedirects
+responseUrl
+redirects
+beforeRedirect
+RbRZ
+HostC
+POST
+Re" 
+^(?:GET|HEAD)$
+^content-
+^host$
+^\w+:
+redirecting to
+Rc.X
+https:
+^(?:(?:proxy-)?authorization|cookie)$
+)|+2
+p|r2
+wrap
+9=z:?%
+Bz<D%
+}DO)
+version
+0.27.2
+TL`&
+utf8
+base64
+ Rf6-
+Proxy-Authorization
+https:?
+http:
+$Kg4
+axios/
+User-Agent
+isFunction
+getHeaders
+RcRA
+isStream
+utf-8
+`Rvv
+Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+Content-Length
+httpsAgent
+RdV:
+httpAgent
+exists
+socketPath
+_proxy
+no_proxy
+NO_PROXY
+,KiF
+!2Cb
+transport
+insecureHTTPParser
+RbBf
+RbR<
+HEAD
+Rd^<m
+decompress
+content-encoding
+gzip
+compress
+deflate
+RdZA
+createUnzip
+statusMessage
+stream
+maxContentLength
+(Rh^
+maxContentLength size of 
+ exceeded
+@Knj
+(Kh:
+arraybuffer
+responseEncoding
+stripBOM
+a|-%
+setKeepAlive
+isNaN
+error trying to parse `config.timeout` to int
+ RfV5|&
+ERR_BAD_OPTION_VALUE
+,KiD
+$Kg4
+DaT!
+P!<!o
+!<%0
+ -(!
+|L`:
+dataSize
+maxDataSize
+pauseStream
+ Rf&
+_maxDataSizeExceeded
+_released
+_bufferedEvents
+,KiD
+Dab"
+Stream
+_handleEmit
+DaJ%
+pause
+HKp|
+readable
+Da>&
+setEncoding
+resume
+Dax'
+$Kg6
+$Kg2
+_checkIfMaxDataSizeExceeded
+4KkR
+Da~*
+,RiNAh+
+DelayedStream#maxDataSize of 
+ bytes exceeded.
+,KiF
+Da$,
+pauseStreams
+Rc"}g
+_streams
+_currentStream
+_insideLoop
+_pendingNext
+8Kl\
+Dax.
+$Kg8
+Da`0
+ Kf,
+Rdv+
+isStreamLike
+_checkDataSize
+_handleErrors
+HKp|
+Da&2
+ Kf,
+DaX4
+Rd^@
+_realGetNext
+4KkT
+_getNext
+shift
+_pipeNext
+,KiB
+8Kl^
+8Kl^
+Da.9
+_emitError
+Da^;
+$Kg4
+,KiH
+Da6=
+_reset
+_updateDataSize
+,KiB
+DahB
+,KiF
+Da8D
+Dalq
+XL`(
+charset
+UTF-8
+4KkT
+lookup
+; charset=
+<Kmd
+extensions
+,KiH
+Da|w
+types
+(Kh@
+Dafy
+nginx
+Rcv2|
+apache
+iana
+$RgB
+application/octet-stream
+application/
+"1"P
+ Kf0
+$Rg~64 
+^\s*([^;\s]*)(?:;|\s|$)
+RcN@
+^text\/
+charsets
+contentType
+Rd*2b
+extension
+setImmediate
+RcRio
+nextTick
+$Kg4
+$Kg2
+DaR|
+Da"~
+(Kh>
+jobs
+$Kg4
+$Kg2
+keyedList
+RcZ?T
+results
+(Kh<
+,KiF
+0KjJ
+sort
+@Knn
+$Kg2
+(Kh@
+0KjJ
+0KjL
+8KlZ
+4KkV
+4KkX
+$Kg6
+ascending
+RdV;
+descending
+DKov
+(Kh>
+parallelC
+serial
+serialOrdered
+ Kf0
+(Kh>
+,KiD
+,KiD
+HL` 
+getOwnPropertySymbols
+iterator
+[object Symbol]
+propertyIsEnumerable
+0KjN
+Reflect
+ Kf.
+$Kg4
+<Rm*x
+Function.prototype.bind called on incompatible 
+8Kl\
+(Kh@
+,KiF
+,KiH
+binder
+return function (
+){ return binder.apply(this,arguments); }
+HKp~
+(Kh<
+$Kg4
+4KkT
+a function is required
+ Kf.
+<Kmb
+ERR_PROTO_ACCESS
+getProto: not an object
+<Kmd
+0KjP
+$Rg&
+"use strict"; return (
+).constructor;
+(Kh@
+ Kf0
+%AggregateError%C
+%Array%
+%ArrayBuffer%
+%ArrayIteratorPrototype%C
+,RiR
+%AsyncFromSyncIteratorPrototype%C
+%AsyncFunction%
+%AsyncGenerator%C
+$RgV
+%AsyncGeneratorFunction%C
+$RgfE
+%AsyncIteratorPrototype%C
+%Atomics%
+%BigInt%C
+%BigInt64Array%
+%BigUint64Array%C
+%Boolean%
+RdZ@
+%DataView%
+%Date%
+%decodeURI%
+%decodeURIComponent%C
+%encodeURI%
+%encodeURIComponent%C
+%Error%
+%eval%
+%EvalError%
+%Float16Array%
+%Float32Array%
+%Float64Array%
+$RgF
+%FinalizationRegistry%
+%Function%
+ RfF
+%GeneratorFunction%
+%Int8Array%
+%Int16Array%C
+RdvGQ
+%Int32Array%C
+%isFinite%
+%isNaN%
+%IteratorPrototype%
+%JSON%
+%Map%
+%MapIteratorPrototype%
+%Math%
+%Number%C
+RcBE
+%Object%C
+%Object.getOwnPropertyDescriptor%
+%parseFloat%C
+%parseInt%
+%Promise%
+%Proxy%
+%RangeError%C
+%ReferenceError%C
+%Reflect%
+Rc.x;
+%RegExp%C
+RcFZ
+%Set%
+%SetIteratorPrototype%
+%SharedArrayBuffer%
+%String%C
+%StringIteratorPrototype%
+%Symbol%C
+%SyntaxError%
+ReRj
+%ThrowTypeError%C
+%TypedArray%C
+%TypeError%
+%Uint8Array%C
+%Uint8ClampedArray%
+%Uint16Array%
+%Uint32Array%
+RdFE
+%URIError%
+%WeakMap%
+%WeakRef%
+RdBOWH
+%WeakSet%
+%Function.prototype.call%
+(RhF
+%Function.prototype.apply%
+%Object.defineProperty%
+$Rgv(
+%Object.getPrototypeOf%
+%Math.abs%
+%Math.floor%C
+%Math.max%
+%Math.min%
+%Math.pow%
+%Math.round%C
+%Math.sign%
+$Rg*-
+%Reflect.getPrototypeOf%C
+Atomics
+DataView
+decodeURI
+encodeURI
+Rd2{?
+Float16Array
+%Error.prototype%
+async function () {}
+function* () {}
+$RgF
+async function* () {}
+%ArrayBufferPrototype%
+%ArrayPrototype%
+ Rfv
+%ArrayProto_entries%
+entries
+ RfR
+%ArrayProto_forEach%
+%ArrayProto_keys%
+%ArrayProto_values%
+values
+$Rg"$
+%AsyncFunctionPrototype%
+AsyncFunction
+AsyncGeneratorFunction
+%AsyncGeneratorPrototype%
+ Rf.
+%BooleanPrototype%
+ Rfr
+%DataViewPrototype%
+%DatePrototype%
+%ErrorPrototype%
+ Rfb
+%EvalErrorPrototype%
+$Rg2
+%Float32ArrayPrototype%
+$Rgz
+%Float64ArrayPrototype%
+ RfN
+%FunctionPrototype%
+%Generator%
+GeneratorFunction
+%GeneratorPrototype%
+%Int8ArrayPrototype%
+%Int16ArrayPrototype%
+$Rg*
+%Int32ArrayPrototype%
+%JSONParse%
+%JSONStringify%
+%MapPrototype%
+%NumberPrototype%
+ Rf>
+%ObjectPrototype%
+%ObjProto_toString%
+%ObjProto_valueOf%
+ RfNa
+%PromisePrototype%
+ Rf&
+%PromiseProto_then%
+%Promise_all%
+%Promise_reject%
+ RffxA%
+%Promise_resolve%
+%RangeErrorPrototype%
+%ReferenceErrorPrototype%
+%RegExpPrototype%
+%SetPrototype%
+(Rh2\U^
+%SharedArrayBufferPrototype%
+%StringPrototype%
+%SymbolPrototype%
+%SyntaxErrorPrototype%
+$RgJI
+%TypedArrayPrototype%
+ RfF
+%TypeErrorPrototype%
+%Uint8ArrayPrototype%
+%Uint8ClampedArrayPrototype%
+%Uint16ArrayPrototype%
+%Uint32ArrayPrototype%
+%URIErrorPrototype%
+ Rfb
+%WeakMapPrototype%
+%WeakSetPrototype%
+pRz^t
+[^%.[\]]+|\[(?:(-?\d+(?:\.\d+)?)|(["'])((?:(?!\2)[^\\]|\\.)*?)\2)\]|(?=(?:\.|\[\])(?:\.|\[\]|%$))
+\\(\\)?
+invalid intrinsic syntax, expected closing `%`
+invalid intrinsic syntax, expected opening `%`
+@Knn
+RdRC\
+intrinsic 
+ exists, but is not available. Please file an issue!
+alias
+ does not exist!
+`L`,
+intrinsic name must be a non-empty string
+"allowMissing" argument must be a boolean
+^%?[^%]*%?$
+`%` may not be present anywhere but at the beginning and end of the intrinsic name
+@Rn:_
+property names with quotes must have matching quotes
+ Rf&
+base intrinsic for 
+ exists, but the property is not available.
+Rerg
+originalValue
+(Kh>
+force
+nonConfigurable
+if provided, the `overrideIfSet` and `nonConfigurable` options must be booleans
+HKp~
+HKp|
+ Kf*
+_overheadLength
+_valueLength
+_valuesToMeasure
+<Kmd
+RdNH
+LINE_BREAK
+ Rfv
+DEFAULT_CONTENT_TYPE
+Rc6=
+filenameC
+_error
+Arrays are not supported.
+_multiPartHeader
+_multiPartFooter
+_trackLength
+LL`"
+knownLength
+httpVersion
+\L`*
+stat
+$Kg8
+httpModule
+ Kf.
+Unknown stream
+_lengthRetriever
+lL`2
+header
+_getContentDisposition
+_getContentType
+ Rf*
+Content-Disposition
+form-data
+name="
+RdzBUc
+getBoundary
+XL`(
+filepath
+normalize
+client
+_httpMessageI
+filename="
+Re"0
+_lastBoundary
+ Kf0
+multipart/form-data; boundary=
+4KkV
+RdvP
+_boundary
+Rd^<
+setBoundary
+ RfJ6
+_generateBoundary
+HL` 
+getBuffer
+--------------------------
+random
+4KkV
+hasKnownLength
+Cannot calculate proper length in synchronous way.
+0KjJ
+getLengthSync
+Dar 
+ Kf0
+DKox
+getLength
+HL` 
+Rb2[
+post
+Da>#
+ Kf0
+Da:$
+DKot
+submit
+Dar&
+ Kf*
+[object process]
+,KiD
+8Kl\
+\L`*
+Rc>,^_
+Accept
+isFile
+isBlob
+ Rf*
+isArrayBufferView
+application/x-www-form-urlencoded;charset=utf-8
+isFileList
+multipart/form-data
+files[]
+application/json
+ Rf6
+silentJSONParsing
+forcedJSONParsing
+Rc:Z
+merge
+ Kf.
+DaV6
+throwIfRequested
+$Kg4
+Da<7
+transformRequest
+common
+delete
+head
+patch
+adapter
+ Rf~
+transformResponse
+$Kg6
+4KkT
+Da4;
+Daz<
+,KiH
+0KjP
+ Kf,
+0KjL
+Da*?
+(Kh@
+timeoutMessage
+ Kf,
+Da>D
+Da\F
+[Axios v
+$RgJ
+] Transitional option '
+Rb>-
+ Kf0
+ has been removed
+ in I
+Rez+
+ERR_DEPRECATED
+(Rh&
+ has been deprecated since v
+ and will be removed in the near future
+@Knj
+Da2G
+options must be an object
+option 
+ must be 
+Ref&
+Unknown option 
+ERR_BAD_OPTION
+interceptors
+DajM
+assertOptions
+(Kh>
+Da.R
+(Kh@
+/|1%
+8|:%
+(Kh:
+DaTU
+DazV
+ Kf0
+$Kg2
+Form
+$Kg6
+DabY
+executor must be a function.
+promise
+_listeners
+0KjN
+DaN\
+cancel
+ Kf.
+8KlZ
+$Kg8
+DaB^
+ Kf0
+DaP_
+Da0`
+Dab`
+token
+DKor
+Da"a
+DaHa
+isAxiosError
+(Kh:
+4KkR
+Dafe
+command
+innerBuffer
+updateInnerBuffer
+$Kg8
+$Sb@
+Invalid request line
+Protocol version not match
+(Kh@
+DKor
+Dari
+getVersion
+setMethod
+DaZj
+getMethod
+setCommand
+getCommand
+Dank
+SeqNumber
+AckNumber
+ContentLength
+ContentType
+FileName
+FileBlockId
+Rcjq
+FileSize
+ContentRange
+Rcjh
+Counter
+Option
+@Knp
+DaRl
+XL`(
+Text
+Json
+RbfR<
+RbV~
+Rb>b
+Unknown
+8Kl`
+$Sb@
+(Kh@
+$Kg4
+fromString
+Danp
+Da,q
+Danq
+$Sb@
+Invalid request header
+(Kh@
+DaHr
+(Kh>
+Da|x
+Da8y
+,KiF
+$Kg2
+$Sb@
+setBody
+4KkX
+Rc2M
+content
+Da(}
+STATE
+DELETE
+ Kf0
+body
+DKov
+$Sb@
+HL` 
+unpackMsg
+data frame is incomplete
+dataBuffer
+get version
+getRequestCommand
+addHeader
+getContentType
+setBodyContent
+getBody
+getSeqNumber`
+(Kh@
+getMessageLength`
+getMessageBuffer`
+toInnerBuffer
+RcZS
+packData
+toBuffer`
+lL`2
+ReRG<O
+toStringPretty
+Request
+Request Message: --------->
+ method: 
+ cmd: 
+ header: 
+ body: 
+ data hex: 
+Rb&b
+Info
+Success
+Redirect
+ClentError
+Rdj+
+ServerError
+0KjN
+$Sb@
+HL` 
+Invalid response code: 
+(Kh@
+setRespCode
+Rdf`XL
+getRespCode
+(Kh@
+$Sb@
+Rc.K
+setLine
+get version
+getLine
+Rd~S
+isSuccess
+getContentLength`
+getAckNumber`
+(Kh@
+dL`.
+RcF#
+ResponseI
+Response Message: --------->
+ code: 
+HKp~
+writeUInt16BE
+writeUInt8
+<Kmb
+writeUint8
+subarray
+0KjL
+0KjJ
+hidReportId
+findIndex
+dataTotalLength
+ RfN
+dataSectionLength
+checkSum
+8Kl^
+$Sb@
+handleData
+Re^G
+writeUint16BE
+\L`*
+<Rm.h*
+Data is invalid; reasone: data length is invalid
+TRs.I
+Data is invalid; reasone: frame head or frame tail is invalid, data: 
+readUInt16BE
+I(p1
+Data is invalid; reasone: frame length is invalid
+h$~.
+Data is invalid; reasone: checksum is invalid;
+computer checkSum: 
+$RgB
+; data frame checkSum: 
+8RlF
+ Message Frame: --------->
+ totalLength: 
+ datalength: 
+ Rf:Q
+ checksum dec: 
+; hex: 
+ data hex: 
+0KjN
+$Kg4
+conn
+Re*1
+waterBlockScreen
+recovery
+preset
+displayInSleep
+fanLCDSet
+mediaDelete
+spec
+reboot
+Rc*Ct
+power
+RdBM
+other cmd:
+Idle
+Transport
+Transporting
+Transported
+$Kg8
+Slow
+Fast
+$Kg4
+.android
+adb_usb.ini
+readFileSync
+writeFileSync
+HKp|
+Rd2w
+mediaCustom
+mediaPreset
+mediaFilter
+firmware
+posix
+/sdcard/
+isGettingConnectDevices
+Rd.aq
+retryTimes
+devicesMap
+_devices
+ADBDevice constructor
+adbExecTimeout
+allowOfflineDevices
+8KlZ
+$Sb@
+ Kf,
+ADBDevice setup
+updateConnectedDevices
+ADBDevice setup updateConnectedDevices end
+(Kh:
+setup
+getDeviceStatus
+udid
+state
+,KiH
+HRp"SF
+ADBDevice Wait for ADB getting connected devices; isConnect
+device
+,KiF
+isConnect
+adbExec
+shell
+$Kg4
+HL` 
+.zip
+.avi
+.webp
+pushFireware
+pushMedia
+adb pushFile unknown file:
+<Kmb
+pushFile`
+fileExists
+(Kh:
+(Kh:
+sync
+(Kh<
+pulla
+ Kf0
+PLa$
+__PASS__
+[ -e '
+' ] && echo 
+adb fileExists ret:
+Failed to check fileExists:
+(Kh@
+DKov
+broadcast
+RbN'
+,KiH
+p,#8
+broadcastByPid
+Rc^\#$
+getprop
+getProperty
+setprop
+setProperty
+XLb(
+refreshDeviceList
+$Rg2I
+isSerialPortAlready pid:
+PROP_DEVICE_OPEN
+$Rgf!
+isSerialPortAlready sn: 
+, ret: 
+(Kh@
+isDeviceAlready
+get devices
+killServer
+;@l|(
+restartAdb
+$Kg2
+ RfJSI
+adb exec cmdArgs:
+Failed to exec adb, cmdArgs:
+(Kh@
+(Kh@
+|Lc:
+ADBDevice Wait for ADB getting connected devices, waitTime:
+ Rff\
+ADB_RESTART_TIME_MAX
+getConnectedDevices
+:bR 
+ADBDevice All Connected devices:
+RcRc
+clear
+getUsbID
+'8q&
+Failed to get ConnectedDevices; error:
+setDeviceId
+ADBDevice updateConnectedDevices:
+(Kh@
+XLa(
+PROP_USB_ID
+, usbID: 
+isSerialPortAlready is null; sn: 
+<RmbY{
+isSerialPortAlready usb id format Error; sn: 
+ADB init
+0KjJ
+ Kf*
+XL`(
+clip callback. session: 
+Rd"Zn
+, progress: 
+, userData: 
+, mediaProcessProgress: 
+Failed to get media; session: 
+; userData: 
+4Rk~
+ryuo:mediaOnFileHandleProcessProgress
+`L`,
+mediaSave: mediaList is empty
+exclude
+$RgRU
+media list save set: 
+; resp body: [
+RYUO_IV_HW_Info
+ReFf
+mediaFrameGet
+$RgBi
+mediaFrameGet: exchange
+XMLParser
+thump
+tempSavePath:
+mediaFrameGet: frame info:
+Property
+FrameCount
+ Rf&
+catch frame index:
+catch video frame, 
+Re&Zn
+catch gif frame
+Failed to catch media frame 
+, result: 
+$RgfW
+mediaFrameGet: catchRet:
+,Ri2c,
+mediaFrameGet: frame save path
+dLb.
+mediaImageAdd
+writeFile
+water block screen: transport image media start
+8RlrH/},
+water block sreen: transport image media end
+(Rhv
+mediaImageGifAdd: point: 
+, width: 
+, height: 
+copyFile
+image clip session: 
+Rez\P
+, srcMediaPath: 
+ Rf&
+; tempMediaPath: 
+; deskMediaPath: 
+ x: 
+; y: 
+; width: 
+; height: 
+session
+K!+M
+}-Q)
+mediaVideoAdd: point: 
+, start: 
+, end: 
+mediaVideoAdd: exchange
+mediaVideoAdd session: 
+; path:
+setInterval
+dL`.
+<SbL
+Rej*
+clearInterval
+mediaVideoAdd: media process completed
+Start
+mediaVideoAdd: media file size:
+Failed to transport file
+Done
+$Rg*
+File transport completed
+0KjN
+,Rib
+mediaVideoAdd: totalProcess: 
+; transportProgress: 
+$Fd#8
+File transport completed; file transtport status:
+ Kf*
+Feild to transport the file to devices; error:
+|La:
+media delete:
+unlink
+include
+ Rf2b
+media delete set: 
+@Knj
+,RiVu
+Failed to get frame count, zero
+$Rg*e*
+catchVideoFrame; count: 
+, index: 
+, frameCount: 
+, frameIndex: 
+Failed to catch the video Frame
+media:onCatchingVideoFrames
+@Knl
+8Kl`
+ Kf0
+ Kf0
+Dat 
+ Kf0
+Da"!
+4KkR
+,KiB
+ Kf0
+UNKNOWN
+,KiF
+Da4$
+XL`(
+delete media name list:
+RdF})t
+no_recurse
+return_object
+DaJ'
+$RgZ
+delete media file path:
+(Kh:
+Da`(
+Da4*
+delete media thumb file path:
+(Kh:
+Daz*
+(Rh^
+delete media temp file path:
+(Kh:
+ file: 
+, exist: 
+, file size: 
+8Kl\
+DaP.
+(Kh:
+LL`"
+DaT/
+$Kg4
+Dah0
+usedMediaList:
+DaZ1
+delete media wihch unused, file path:
+0KjJ
+@Knp
+Rcv-e
+sysinfo
+[sysinfo store-config] migrate from 
+Da85
+$Kg2
+Dah6
+isInited
+inited
+_spec
+Dah7
+specSet
+_details
+details
+detailsSet
+Dat9
+detailsOriginal
+Da":
+detailsOriginalSet
+Da`4
+1.1.6
+Da`;
+sysinfoSpec init
+deviceName
+overview
+Rd^>
+osVersion
+osRelease
+arch
+osArch
+Rb>b`
+title
+motherboard
+RcRjW
+memory
+disk
+RbB0
+GPU Type
+Discrete
+Da*>
+monitor
+network
+spec:
+memorys
+ RfVA
+Module Manufacturer
+$Kg8
+Memory Type
+$Kg4
+Da(A
+general
+Total Memory Size [MB]
+ Kf0
+ Kf.
+getSpec
+Da`C
+Da0D
+DaPE
+DahF
+DatG
+Last update status not finish
+ Rf~i+
+sysinfo updateStatus
+First updateStatus:
+updateStatus: 
+status is undefined ---
+Rd2`s
+MotherBoard
+Disk
+Memory
+Fans
+Network
+$Rg^$
+updateStatus status: 
+DaLH
+DaBM
+(Intel PCH)
+ReFp
+PCH Temperature
+ RfNn
+chipsetTemperature
+(AMD Chipset)
+Chipset 1 (xHCI)
+Rd.6
+Motherboard
+temperature
+System
+Rdvu
+Temperature
+DajQ
+CPU Package
+temperaturePackage
+Fan Chassis
+Fan System
+RcrI
+Fan Pump
+Fan AIO Pump
+Rc.m
+Fan CPU
+Fan CPU OPT
+Fan CPU_OPT
+Pump
+fans
+onBoard
+PUMP
+CPU Package Power
+ RfjH
+Total CPU Utility
+Total CPU Usage
+Clock
+core
+speedAverage
+toFixed
+voltage
+DabV
+PL`$
+hasDedicated
+GPU D3D Usage
+ReNw
+GPU Core Load
+GPU Clock
+speed
+iGPU VID
+DaB\
+dL`.
+GPU Temperature
+ReF4
+GPU Core Voltage
+DaL_
+discreteGPU
+GPU Fan
+Da&d
+GPU Core Temperature
+$Kg4
+GPU PPT
+GPU Power
+Total GPU Power
+Total Activity
+activity
+Drive Temperature
+Read Rate
+readSpeed
+Write Rate
+writeSpeed
+LL`"
+ Rf~
+Physical Memory Used
+used
+ Rff
+Physical Memory Load
+Physical Memory Available
+Rd*"
+Memory Clock
+Da\o
+Re^*
+Current DL rate
+download
+Current UP rate
+<Kmd
+CPU [
+Drive:
+GPU [
+Memory Timings
+System:
+Rc2u
+Network:
+(Nuvoton NCT
+Dajt
+4KkT
+ Kf0
+AIO Pump
+8Kl^
+DaL|
+dLa.
+sysinfoDetails init
+sysinfo details:
+SubNodes
+NodeName
+PL`$
+Entry
+Description
+VIDEO
+Driver Description
+MONITOR
+Monitor Name (Manuf)I
+1920 x 1080
+getAllDisplays
+label
+(Kh:
+4KkV
+Rd2?@\
+initOverview
+Computer Name
+computerName
+ RfJ
+Computer Brand Name
+computerBrandName
+Operating System
+4KkT
+8Kl`
+initMotherboard
+Motherboard Chipset
+MOBO
+Motherboard Model
+(Kh@
+8KlZ
+initCPU
+HM` 
+4Rk^
+Number Of Processor Packages (Physical)
+(Rhr
+Number Of Processor Cores
+Number Of Logical Processors
+Re~8
+Processor Name
+Original Processor Frequency
+Original Processor Frequency [MHz]
+RcRt
+CPU ID
+CPU Brand Name
+CPU Vendor
+,Ri&
+CPU Thermal Design Power (TDP)
+CPU Platform
+Number of CPU Cores
+Number of Logical CPUs
+CPU LFM (Minimum)
+CPU HFM (Base)
+CPU Turbo Max
+$Kg8
+SubNode
+TL`&
+initMemory
+Total Memory Size
+Memory Channels Supported
+Memory Channels Active
+Module Number
+Module Size
+Memory Speed
+Module Part Number
+MEMORY
+initGPU
+Video Chipset
+Video Memory
+Rd~R
+Video Card
+@Knl
+Rdf:
+initMonitor
+Monitor Name
+Re2z
+Serial Number
+@Knl
+initDisk
+Drive Model
+Drive Serial Number
+Drive Capacity
+Drive Capacity [MB]
+DRIVES
+4KkV
+@Knl
+initAudio
+Audio Adapter
+(RhnX
+Audio Controller Hardware ID
+(Rh"v
+High Definition Audio Codec
+Audio Codec Hardware ID
+Rc>L
+SOUND
+8Kl\
+initNetwork
+Network Card
+Vendor Description
+MAC Address
+Maximum Link Speed
+NETWORK
+@Knl
+deInit
+Rdn|
+getStatus
+timestamp
+check
+available
+(Kh@
+getDetails
+HL` 
+4Rk6
+sysInfoDetails:onSysInfoDetailsInited
+,RiV
+sysinfoSpec:onSysInfoSpecInited
+0Rj2E
+sysinfoStatus:onSysInfoStatusChanged
+0RjN
+sysinfoStatus:onSysInfoDetailsInited
+LL`"
+updateStatusTimer
+interval
+DKov
+$Sb@
+ Kf,
+|Lb:
+hwinfo init...
+hwinfo init timeout, wait for 
+Rc:g
+ seconds
+ Kf.
+hwinfo
+hwinfo inited: 
+, take 
+initDetails
+initSpec
+Rd>*?
+initStatus
+initStore
+startUpdateStatus
+<Kmb
+ Kf.
+_discreteGPU
+get discreteGPU
+<Kmb
+ Kf*
+4KkR
+updateVersion
+firmware update version; oldVersion: 
+; newVersion: 
+firmware update version; isSuccess:
+Firmware file does not exist:
+Firmware file does not exist: 
+FileNotFound
+[upgrade firmware] RYUO IV is not connected
+DeviceNotConnected
+tmpdir
+Temporary firmware file already exists: 
+, deleting it.
+o}Q3
+Failed to delete existing temporary firmware file: 
+FileTransferFailed
+$Kg8
+Copied firmware file to temporary path: 
+transportFile
+Failed to transport firmware file to device
+upgrade
+/sdcard/update.zip
+sendMsg
+\La*
+4RkZ
+Sent upgrade command, handling response
+(RhV
+Firmware upgrade failed: 
+success
+errMsg
+8Rl6oV<)
+Notify device to upgrade firmware success
+Firmware upgrade timeout
+4KkT
+(RhfK
+Firmware upgrade completed
+@Knj
+Error during firmware upgrade:
+,KiD
+-T#P
+Failed to delete temporary firmware file: 
+$Rg2
+Firmware upgrade error:
+Failed to upgrade firmware: 
+8Kl`
+})C)
+%!1U
+Temporary firmware file deleted: 
+(Kh@
+0KjP
+TL`&
+Ryuo setup
+device sn:
+device firmware:
+device:onCheckedFirewareVersionCompatibility
+compatbile with 
+,KiD
+hardware
+device hardware:
+sync config to device
+Celsius
+Fahrenheit
+Intl
+DateTimeFormat
+resolvedOptions
+$Kg8
+,Ri.
+Wait for device filesystem init
+sync config; resp body: [
+"F}#H)
+$K!%M
+(RhNP
+sync media to device; data:
+syncMedia presetMediaExists:
+persist.havebeenDeletedAllPresetMediaV076
+havebeenDeletedAllPresetMediaV076:
+rm -rf /sdcard/pcMediaPreset/*
+Deleted all preset media on device and rebooted due to migration.
+syncMedia presetMedia:
+custom
+syncMedia customMedia:
+<Kmb
+ Rf"ip
+preset catch frame
+Failed to catch thumb
+HKp|
+DKor
+setWaterBlockScreenDevice:
+deviceId
+Set water block screen device to undefine
+"<u(
+8Rlrgu
+Water Block Screen Device is disconnnected 3
+$Kg2
+$Sb@
+LL`"
+getRequestMap
+getRequestSeqQueue
+0RjzRu
+reqest haven't recive this response:
+RbfA
+dateC
+Rb:>
+ Rf^
+addRequestMessage
+HL` 
+ReFl,
+AckNumber error:
+MAX_REQUEST_COUNT
+$Rgf7z
+deleteTheOldestRequest
+getRespCallback
+requestMaps
+,KiD
+ RfV
+requestSeqQueueMap
+,KiB
+8RlN
+too much request message are there, size:
+$Kg6
+Rc*x
+cacheMap
+$Sb@
+ Kf,
+PL`$
+doubleFlags
+lastIndexOf
+appendToCache
+getMessagePacket`
+clearCache
+PL`$
+chunk[start]:
+Rer{
+chunk[end]  :
+(Rhn
+chunk isn't inlcude flag:
+setStrixScreenDevice:
+Set strix screen device to undefine
+4KkT
+0Rj&>
+Strix Screen Device is disconnnected
+$Kg2
+realtimeDisplay
+unknown cmd:f
+$RgZ)
+request factory; req:
+brightness set: 
+8Kl^
+degree
+ Rf"
+scpc rotate set: 
+ RfN
+;lcd rotate set: 
+ Kf,
+,KiB
+,RiR"nf 
+recovery set: true; resp body: [
+suspend
+event
+Rdjk
+power set:  
+(Kh:
+customSet, jsonObj:
+(Kh:
+DaB!
+findConfig
+isOurDevice
+Rb6-
+Can not find config by id; vid: 
+, pid: 
+Rc2+
+Linux
+(Kh:
+getOS
+getDeviceType
+deviceConfigList
+usbProductId
+DaZ)
+deviceType
+`+p!
+Can not find config by pid; pid: 
+0KjL
+deviceConfig
+ Rf"
+defaultDeviceConfig
+$Rg6s0
+getCurrentDeviceConfig
+Daz*
+setConnectDeviceConfig
+DaT+
+(RhjS
+Can not find config; code:
+handleScreenDirection
+0KjN
+0KjP
+(RhzT
+setConnectDeviceConfigById
+$RgR|S
+getConnectDeviceConfig
+,KiD
+,KiF
+getConnectDeviceConfigById
+Da80
+reset
+getDefaultDeviceConfig
+Dap2
+findConfig:
+usbVendorId
+ Kf0
+0KjL
+screenRatio
+screenRotation
+screenWidth
+screenHeight
+reverse
+HKp|
+RbzAU
+4KkT
+lL`2
+handleDeviceInfo. device properties: 
+Device sn is empty:
+ Rff
+device brightness:
+ RfR#2[
+device app version:
+progress is 100--------------------------------
+bdA1
+waterBlockScreen:mediaOnFileHandleProcessProgress
+Da.@
+Da.C
+0KjN
+DaFE
+`Lb,
+6e0R
+Da<K
+, mediaPath: 
+; path: 
+RcbWz
+; x: 
+} A)
+Da|P
+DadT
+ Kf0
+Da4V
+unlinkSync
+media delete failed
+(Kh@
+8Kl^
+Da6W
+ Kf0
+ Kf0
+DahY
+ Kf0
+0KjJ
+ Kf0
+(Kh>
+DaD\
+XL`(
+Da>_
+(Kh:
+DaT`
+Da(b
+(Kh:
+Danb
+(Kh:
+8Kl\
+$Sb@
+DaZf
+Rdv2
+handleDevice
+device:onDeviceStatusChanged
+attrs
+connected
+(Kh:
+addDevice
+RdZR
+deviceInfo
+8Kl^
+addDeviceBySn
+contains`
+`L`,
+deleteDevice`
+Dabj
+SerialPort
+isOpen
+device close:
+Status
+ Rff
+Water Block Screen
+4KkX
+disconnected
+getDevice
+0KjN
+ Rfv
+isDeivceConnected
+Dazn
+DaXo
+0KjL
+handleResponse
+Da$q
+$Kg6
+$Kg6
+Davr
+<Kmd
+stop device start:
+Dars
+$Kg2
+PL`$
+Da2t
+00000000000
+handleResponse data:
+resp: 
+0RjZ6
+Failed to parser to response; msg:
+<Kmh
+Failed to parser the chunk
+ Rff
+fileTransportStatus
+isCompatibleMode
+getDeviceId
+device properties: 
+Device product '
+' does not match permitted device 'Ryuo IV Standard'.
+attribute
+$Sb@
+Failed to handle conn resp; error:
+getDeviceInfo
+vendorId
+productId
+|L`:
+basicCommands
+}>jh
+; current device version: 
+; minVersion:
+$RgB
+device send msg; req:
+Rdr?
+syncSendMsg
+write file callback, error:
+drain
+$RgZ[%y
+Failed to drain; error:
+$Kg6
+4KkR
+DKor
+realTimeTransportFile
+setFileTransportStatus
+maxFileBlockSize
+$Kg8
+sendMsg result: 
+Rc&F5g
+flushMsg
+file Transport, device:
+$Rgr
+; transport file Path
+file transport: 
+file Transport[2], transporting the file. filePath
+file transporting: 
+<Rm^
+Failed to transport file, device is not already
+4KkV
+file transported: 
+transported
+(RhB
+Succes to transport file:
+<Kmd
+$Rgb
+file transport error:
+$Kg4
+finally
+$RgR
+file transport finnish
+,KiD
+4KkX
+0KjP
+dL`.
+file Transport[1], start transport file. filePath
+file Transport[1], start transport file. file size
+fileSizeC
+transport timeout in [500ms], Failed to get resp
+transport resp ret:
+(Kh>
+transporting`
+8Rlz
+file Transport[2], transporting. filePath
+8Rl.I
+file Transport[2], transporting. block total
+$Kg8
+file Transport[2], transporting. block index: 
+, blockSize: 
+file buffer hex:
+bytesRead
+failed to read
+TL`&
+file Transport[3], transported
+Rb>l
+todo
+@Rn2vMu3
+transported timeout in [5000ms], Failed to get resp
+$Rg*y
+transported resp ret:
+(Kh@
+DKox
+flush
+flush error:
+$Kg6
+pauseDevice
+RdVsDi
+resumeDevice
+@Knj
+,+H%T%
+ RfN
+setCompatibleMode
+getCompatibleMode
+,KiD
+lLa2
+$Rgn
+scan serial port device
+All SerialPort device list: 
+No SerialPort device found
+@Rnr
+SerialPort device list has duplicate device, pids: 
+HL` 
+try to connnect the device. info:
+baudRateC
+pL`4
+Failed to create SerialPort; error:
+; port: 
+DRof
+write callback; Failed to write conn msg to device: [
+]; error: 
+$Kg2
+write ret; Failed to write conn msg to device: [
+(Kh:
+Device [
+ Rff
+] got error event
+Device 
+ error; error: 
+,KiB
+] got close event
+(Kh>
+Catch error; Failed to write conn msg to device: [
+<Kmd
+HL` 
+\La*
+scan hid device
+devicesConfigs
+0KjP
+devicesAsync
+Scan taget vid pid
+8Kl`
+flat
+our devices
+Android
+@Rn:HU%2
+HID Device is not already, notify device; device: 
+try to connect hid device; index: [
+scanDevice; hid device recive data:
+ Rf>
+removeAllListeners
+0KjP
+<Kmh
+ Rfjy
+hid device close:
+ Rfn%
+hid device drain:
+hid device error:
+DRoZ4q
+HID Device is not already, conn timeout, notify device; 
+<Kmf
+ RfR,=
+send conn req; ret: 
+; buffer len: 
+; buffer: 
+$Rgj
+HID send to conn error:
+Cannot write to hid device
+ Rfv]m
+write error, notify
+(Kh@
+I!$K
+0dw8
+,Ri&
+notifyDeviceToOpen; deviceInfo:
+4RkNg
+BROADCAST_ANDROID_INTENT_ACTION_BY_PC_ON
+,KiD
+PL`$
+Failed to create BYDevice instance:
+discovery device timer is already started
+$Kg4
+$Kg4
+(Rh&
+stop discovery device timer
+ Kf*
+ Kf,
+Rdn;
+intervalMS
+timer
+devices
+notReadyDevices
+Rer"
+startInterval
+(Kh>
+$Sb@
+ Kf,
+hL`0
+ Rf6
+handleStatusResponse
+ RfJb
+sync status error:
+(Kh@
+sync status start:
+Rb2y3
+stop
+(Kh:
+(Rh>rmE
+sync status setIntervalMs:
+setIntervalMS
+isRunning
+,Rir
+sync status service register:
+Failed to register sync server:
+0KjP
+sync status service unregister:
+ Kf.
+stop sync status timer
+0Rjr
+handleStatusResponse in sync service
+Failed to parser resp; error: 
+, resp: 
+(Kh@
+$Kg2
+(Kh@
+$Kg2
+HL` 
+RdNW\
+enableSet:
+water block screen set: 
+ Kf*
+HKp~
+ Kf,
+(Rhnh
+display in sleep mode set: 
+ Kf*
+(Kh@
+<Kmb
+screenflip
+ReZv
+unknow rotate:
+8Kl\
+screenflip set:
+screen flip set: 
+(Rh"
+Failed to set screen flip:
+8KlZ
+0KjP
+|L`:
+$Kg8
+(Rhj
+water block screen id set: 
+ Kf*
+ Kf,
+ Kf,
+DKox
+customSet sysinfoDisplay:
+$Kg8
+customSet screenConfigObj:
+ Kf*
+preset set: 
+4KkX
+Rbrm9Z
+temperature unit set: 
+(Kh:
+waterfallMode set: 
+$Kg6
+minVersion
+minVersion:
+4KkX
+,RiB
+firmwareVersionIsCompatible: 
+0KjJ
+4Rk6
+check Ryuo compatiblity: app version: 
+; Ryuo version: 
+satisfies
+<Kmf
+UserCanceled
+DeviceNotSupported
+UnknownError
+@Knp
+ Kf.
+xLa8
+cancel by user
+firmwareVersionUpgrade; deviceType: 
+, firmware path: 
+, fileSize: 
+$Rgb
+Unexpected device type: 
+Unimpelment device type:
+Error 
+Unexpected error: 
+(Kh@
+dialog
+showOpenDialog
+properties
+openFile
+filters
+Firmware
+Rcj,
+result: 
+filePaths
+$RgJ
+Selected firmware path:
+0KjN
+ Kf0
+Hr,g
+(Kh>
+relaunch
+$Kg8
+eHr,g
+$Kg4
+Rd.@
+ryuoVersion
+LL`"
+currentTokenF
+writer
+isUserStopWriterF
+savePathC
+currentMd5
+`Lb,
+settings:checkoutMd5Fail
+rmdirSync
+Oasis
+settings:setupAppSuccessOrNot
+isCancel
+settings:downloadError
+(Kh>
+createHash
+createReadStream
+update
+digest
+0KjJ
+\L`*
+ck(WgbL
+spawn
+ Kf*
+Da~!
+DaV"
+createWriteStream
+CancelToken
+Range
+bytes=
+\L`*
+Resuming download from byte 
+^.T$
+Starting download from the beginning
+Failed to download: 
+vuMR
+,RiF
+settings:downloadFileProgress
+@Knj
+finish
+$Kg4
+DaX+
+(Kh@
+S} U)
+@Knj
+English
+getLocale
+locale current:
+en-AU
+en-CA
+RcFG
+en-GB
+en-GB-oxendict
+en-IE
+Rc"0F
+en-IN
+en-NZ
+en-US
+RcZa:
+en-XA
+en-ZA
+zh-Hans
+zh-CN
+Rcr;Dl
+zh-Hant
+zh-TW
+zh-HK
+de-AT
+Rc*hQ
+de-CH
+de-DE
+Rc^P(
+de-LI
+es-419
+es-AR
+es-CL
+es-CO
+es-CR
+es-ES
+es-HN
+Rcn+a
+es-MX
+es-PE
+es-US
+es-UY
+es-VE
+fr-CA
+fr-CH
+fr-FR
+it-CH
+it-IT
+pt-BR
+pt-PT
+{SO-N
+Deutsch
+Espa
+Suomi kieli
+Fran
+Italiano
+k0{0
+Nederlands
+Norsk
+RdVU;
+Portugu
+Svenska
+lang:
+languageOptions
+Dal6
+Da`7
+onDidChange
+temperatureOptions
+DaT8
+ryuoSN
+DaT9
+statusIntervalSyncToDevice
+ Kf*
+ Rf2
+startupWithWindows
+ Kf,
+Da\;
+LL`"
+Case
+pascal
+--startupWithMinimize
+schtasks /Create /TN 
+ /TR """"
+Rbv#
+""" 
+(Rh^
+" /RL HIGHEST /SC ONLOGON /F
+schtasks /Delete /TN 
+4KkX
+exec comand:
+execSync
+Failed to exec: 
+; error: 
+0KjJ
+TL`&
+<RmB_
+Get recording save path; createDirIfNotExist:
+recordingSavePath
+4Rkj
+Failed to create recording save path:
+Rc.d>]
+desktop
+(Kh@
+Da|A
+openDirectory
+Canceled by user
+0KjP
+Da8B
+ Kf0
+Da@A
+faqsEN
+faqsZHCN
+faqsZHTW
+0KjL
+DatC
+transports
+ Kf.
+setLogLevel, level:
+ Kf*
+Da&E
+getLogFilePath
+getFile
+.log
+.old.log
+8Kl^
+--logLevel
+Da\G
+--logLevel=
+info
+verbose
+{h}:{i}:{s}.{ms} [{level}] [{processType}] {text}
+functions
+maxSize
+ Kf.
+DaTK
+resolvePathFn
+initialize
+errorHandler
+RezT
+startCatching
+showDialog
+onError
+createIssue
+errorName
+processType
+versions
+L!"N
+PLa$
+cleanOldLogger
+subtract
+readdir
+main.log
+YYYY-MM-DD
+isSameOrBefore
+ Kf.
+Da6O
+,RiRn
+logger: rm the old Logger file:
+(Kh:
+@Knj
+DaLQ
+Desktop
+logExport:
+showSaveDialog
+defaultPath
+createDirectory
+logExport result:
+Re>1
+Canceled by User
+filePath
+0KjP
+ Rf.
+logExport error: 
+Da8T
+(Kh@
+(Kh@
+$Kg4
+logExportInner:
+Device
+xL`8
+DaTV
+zlib
+log export close
+$Rg.
+Failed to export logs:
+DaTW
+$Kg4
+DafX
+RczI
+finalize
+4KkR
+DaNZ
+4KkR
+Da0[
+openExternal
+testfirmwareUpgrade
+C:\Users\Administrator\Desktop\update.zip
+DaL]
+[settings store-config] migrate to 0.3.1
+LM`"
+0.3.1
+0.4.5
+0.7.6
+Da a
+TL`&
+isFirstStartUp
+statusUpdateInterval
+Da0g
+Ryuo version change; newValue: 
+RdJ_
+, oldValue: I
+(RhBq
+settings:onFirmwareUpgraded
+Ryuo
+DKox
+LLa"
+Tray
+setToolTip
+Rd:e
+right-click
+ReZj
+popUpContextMenu
+click
+ Kf.
+Da:k
+before-quit
+Da@l
+tray_32.ico
+pL`4
+(Rh^e
+initTrayByLanguage, lang:
+Open 
+Exit
+ Kf.
+Da<o
+Rev<me
+setContextMenu
+Menu
+ Rf6==
+buildFromTemplate
+Da"m
+ RfN
+setApplicationMenu
+LL`"
+powerMonitor
+The system is going to sleep
+DaLq
+The system is resuming
+on-ac
+0RjF
+The system is on AC Power (charging)
+on-battery
+The system is on Battery Power
+RcZJ
+shutdown
+(RhB
+The system is Shutting Down
+DaNt
+lock-screen
+The system is about to be locked
+Rez%S
+unlock-screen
+The system is unlocked
+Rcn~
+notify:
+power event notify; status: 
+; resp: [
+ Kf*
+Da`w
+ Kf*
+$Kg6
+setLoginItemSettings
+openAtLogin
+$Kg6
+createServer
+Client connected
+ Kf0
+Da~y
+quitServer Client disconnected
+(Rh"(h
+quitServer Client Error: 
+$Kg6
+(Rh>
+quitServer Server Error: 
+Da4{
+listen
+quitServer TCP socket server is running on port: 
+,KiB
+stop quit server
+ Kf,
+Da||
+before-quit event: after app.quit() called
+,KiF
+DaN}
+will-quit
+HRpnlFn:
+will-quit event: after all windows are successfully closed
+Da>~
+$Rg*
+quit event: exitCode:
+,KiF
+XL`(
+,RiJ
+envInit: current working dir: 
+chdir
+PATH
+PATH:
+ Kf0
+commandLine
+appendSwitch
+disable-gpu
+disable-software-rasterizer
+disable-gpu-compositing
+(RhZZ6
+disable-gpu-rasterization
+ Rf"@
+disable-gpu-sandbox
+disableHardwareAcceleration
+no-sandbox
+--no-sandbox
+ApiInit
+DKox
+PL`$
+ApiInit recorder
+ipcMain
+Rc>X
+handle
+screenRecoder:openRecorderWindow
+0RjB1J
+screenRecoder:closeRecorderWindow
+(Rhf
+screenRecoder:getScreenSize
+(Rh~
+screenRecoder:setMouseIgnore
+screenRecoder:start
+screenRecoder:pause
+screenRecoder:restore
+screenRecoder:cancel
+ RfN
+screenRecoder:stop
+(RhFW'
+screenRecoder:setRecordPath
+screenRecoder:sendRecordPath
+ReZL
+ApiInit device
+$RgR!
+device:discoveryDevice
+ Kf*
+ApiInit logger
+logger:getLevel
+logger:setLevel
+logger:getFilePaths
+0KjP
+ApiInit media
+ RfNi
+media:mediaFrameGet
+ Rf>
+media:mediaInfoGet
+$RgBce(
+media:catchVideoFrames
+0KjN
+ApiInit app
+$Rgz
+app:windowMaximizeToggle
+app:windowMinimize
+app:quit
+app:exitForce
+app:exitWithUserSetting
+app:show
+$Rg^
+app:getAppInstallPath
+app:getAppMediaLocation
+$RgV[
+ApiInit sysinfoStatus
+sysinfoStatus:all
+sysinfoStatus:network
+ RfV
+sysinfoStatus:mem
+sysinfoStatus:cpu
+sysinfoStatus:gpu
+sysinfoStatus:disk
+sysinfoStatus:fans
+TL`&
+ApiInit sysInfoSpec
+ReboN]
+sysinfoSpec:spec
+$Rgz\+
+sysinfoSpec:deviceName
+sysinfoSpec:osVersion
+sysinfoSpec:osRelease
+sysinfoSpec:osArch
+sysinfoSpec:cpu
+sysinfoSpec:motherboard
+ Rf*
+sysinfoSpec:memory
+sysinfoSpec:disk
+sysinfoSpec:gpu
+ RfF/
+sysinfoSpec:monitor
+ Rf*1
+sysinfoSpec:audio
+sysinfoSpec:network
+$RgR
+ApiInit sysInfoDetails
+$Rgn
+sysInfoDetails:details
+ Rfr}#
+sysInfoDetails:cpu
+sysInfoDetails:mem
+sysInfoDetails:gpu
+sysInfoDetails:network
+$Rgz4
+sysInfoDetails:monitor
+sysInfoDetails:disk
+sysInfoDetails:audio
+sysInfoDetails:motherboard
+Re~3
+ApiInit service
+service:syncStatusStart
+,Ri^s}I
+service:syncStatusSetInterval
+service:syncStatusStop
+$RgvdE
+service:syncStatusPause
+$RgB-C{
+service:syncStatusResume
+,RiR}
+service:syncStatusPauseDevice
+service:syncStatusResumeDevice
+ApiInit settings
+$RgF
+settings:languageOptions
+settings:language
+settings:languageSet
+(Rh*
+settings:temperatureOptions
+ Rf2
+settings:temperature
+settings:temperatureSet
+ Rf.
+settings:interval
+ Rf~
+settings:intervalSet
+settings:startupWithWindows
+,Rir<
+settings:startupWithWindowsSet
+settings:closeAction
+$Rg6m
+settings:closeActionSet
+(Rhv
+settings:displayInSleepMode
+settings:displayInSleepModeSet
+(Rh^9
+settings:recordingSavePath
+0Rj2
+settings:recordingSavePathDialogSet
+settings:shortcutsUnregister
+settings:shortcutsUnregisterAll
+settings:shortcutsRegisterRestore
+settings:shortcutsScreenRecording
+settings:shortcutsScreenRecordingSet
+,RiJg1
+settings:shortcutsMinimization
+0Rj:\$
+settings:shortcutsMinimizationSet
+ Rf~
+settings:logExport
+settings:appVersion
+settings:appVersionCheckForUpdate
+4Rk~@B
+settings:appVersionCheckForUpdateCancel
+ Rfr<
+settings:restartApp
+settings:firmwareVersionWaterBlockScreen
+DRo"
+settings:firmwareVersionWaterBlockScreenCheckForUpdate
+HRp2
+settings:firmwareVersionWaterBlockScreenCheckForUpdateCancel
+8x;*
+settings:firmwareVersionFansCheckForUpdate
+settings:firmwareVersionFansCheckForUpdateCancel
+(Rh*
+settings:interruptDownload
+,Ri^a
+settings:firmwareVersionUpgrade
+$RgFJ
+settings:getFirmwarePath
+V&s)
+settings:firmwareVersionMinSupportVersion
+0RjR
+settings:firmwareVersionIsCompatible
+settings:downloadFile
+settings:faqs
+,RiF
+settings:openDefaultBrowserUrl
+,RiZ
+settings:testFirmwareUpgraded
+ApiInit ryuo
+ryuo:enable
+ryuo:enableSet
+ryuo:displayInSleepMode
+(RhN
+ryuo:displayInSleepModeSet
+ryuo:brightness
+ryuo:brightnessSet
+ Rf6
+ryuo:waterfallMode
+$Rgb
+ryuo:waterfallModeSet
+ryuo:screenFlip
+ryuo:screenFlipSet
+ryuo:rotate
+ryuo:rotateSet
+ryuo:recovery
+ryuo:ids
+ryuo:id
+RdRU
+ryuo:idSet
+$Rgfs(
+ryuo:customScreenMode
+ryuo:customScreenModeSet
+ryuo:customScreenFull
+ryuo:customScreenFullSet
+ryuo:customScreenSplitting
+ryuo:customScreenSplittingSet
+ryuo:custom
+ryuo:customSet
+ryuo:list
+ryuo:displayInformationsPreset
+0RjR
+ryuo:displayInformationsPresetSet
+ryuo:presetMedia
+ryuo:media
+Re"d
+ryuo:mediaSave
+ryuo:mediaImageAdd
+ryuo:mediaImageGifAdd
+ Rf^
+ryuo:mediaVideoAdd
+ryuo:mediaDelete
+ Rff{.
+ryuo:recordTipsShow
+$Rg&
+ryuo:recordTipsShowSet
+\L`*
+Re2v
+ApiInit strix
+strix:brightness
+ Rf~
+strix:brightnessSet
+Rd.<
+strix:rotate
+strix:rotateSet
+strix:recovery
+strix:powerSet
+strix:customSet
+strix:presetMedia
+Rdjd
+strix:media
+strix:mediaSave
+strix:mediaImageAdd
+strix:mediaImageGifAdd
+ Rf2O\
+strix:mediaVideoAdd
+strix:mediaDelete
+Re"T=
+second-instance
+isMinimized
+restore
+8Kl\
+createWindow
+backgroundColor
+#00000000
+additionalArguments
+nodeIntegration
+ Rf"!W
+--isFristStartup=
+--language=
+MAIN_VITE_TRAY_ENABLE
+MAIN_VITE_CLOSE_ACTION
+MAIN_VITE_ENDABLE_ADB
+VITE_PRODUCT
+BASE_URL
+MODE
+production
+PRODG
+ Rf>
+MAIN_VITE_DEV_TOOLS
+setDevToolsWebContents
+Rd.V{
+openDevTools
+detach
+../../extension/vue-tools
+defaultSession
+loadExtension
+allowFileAccess
+fail
+ready-to-show
+process.argv
+4KkV
+Rd:-
+will-move
+|L`:
+ RfN
+getCursorScreenPoint
+$Rg^
+getDisplayNearestPoint
+Detected maximize drag, unmaximizing...
+preventDefault
+getSize
+setPosition
+setWindowOpenHandler
+action
+deny
+T-T3
+}$K)
+3!3h
+|L`:
+\Ru.
+whenReady [ASUS Info Hub - ROG RYUO IV SLC 360 ARGB]  2026-01-05T08:56:55.995Z
+RdR8
+app version:
+electronApp
+ RfF
+setAppUserModelId
+RdR[
+com.rog.ryuo
+$Rgb
+browser-window-created
+optimizer
+watchWindowShortcuts
+activate
+getAllWindows
+Log file:
+App path: 
+getAppPath
+App work dir: 
+0KjL
+$RgNL
+display-metrics-changed
+workAreaSize
+(Kh<
+darwin
+ RfR
+window all closed
+$Kg6
+$Kg2
+D]Dc
+freeze
+electron
+@electron-toolkit/utils
+electron-log
+electron-store
+Rd"$Jj
+regedit-rs
+perf_hooks
+child_process
+semver
+Reb)
+fast-deep-equal
+events
+node:os
+diskusage
+node:path
+moment
+Rdn!
+appium-adb
+fast-xml-parser
+walkdir
+@jellybrick/ffi-napi
+fluent-ffmpeg
+RcRru
+sharp
+ Rfz
+node:child_process
+glob
+serialport
+node-hid
+RcntzZ
+node:fs
+node:events
+Rc~M
+crypto
+util
+change-case-all
+archiver
+ASUS Info Hub - ROG RYUO IV SLC 360 ARGB
+1000k
+Rcz7
+libx264
+0x18D1
+0.0.1
+RcB?*
+>=0.0.1
+0.0.2
+0.0.3
+0.0.4
+0.0.5
+0.0.6
+0.1.0
+>=1.0.0
+0.2.0
+0.3.0
+>=1.0.3
+0.4.0
+>=1.0.5
+0.4.1
+0.4.2
+>=1.0.6
+0.4.3
+0.4.4
+Rcng:
+0.4.6
+0.5.0
+0.6.0
+0.6.1
+0.6.2
+0.7.0
+0.7.1
+0.7.2
+0.7.4
+0.7.5
+0.7.7
+,RiF
+Pre-set 1: RYUO_IV_HW_Info_01
+Single
+#E5252B
+#FFFFFF
+opacity
+CPU Badge
+,Ri&
+Pre-set 2: RYUO_IV_HW_Info_02
+,Ri>
+Pre-set 3: RYUO_IV_HW_Info_03
+,RiJ
+Pre-set 4: RYUO_IV_HW_Info_04
+Pre-set 5: RYUO_IV_HW_Info_05
+#000000
+waterBlockScreenDisplayInformationsColorC
+Rc&I
+#E94A22
+LM`"
+CPU Temperature
+CPU Usage
+Date&Time
+Ctrl+Alt+T
+v^>f:y(WA
+6R\O
+OX[(W
+*N'`
+hQO\>f:y
+QX[n
+RO\>f:y
+O }Pg
+ }Pg
+ }Pg/e
+*N }Pg
+0 }Pg
+^/f9hncS_MR
+$N*N
+Spe>f:y
+E\-N
+O\U^
+NO\U^
+O w!j
+sQ:g
+O\U^
+O w!j
+sQ:g
+O\U^
+^>f:y
+teSOAm
+N*Nek
+TO\U^GS
+T$N*N
+FO4l
+:y(WA
+gX[(W
+hQO\o
+na0RgQX[n
+StP@S
+RO\o
+O }Pg
+ }Pg
+ }Pg/e
+P }Pg
+0 }Pg
+^/f9h
+dvuMRx
+f~|4q
+Sxeo
+E\-N
+O\U^
+&TGR
+O w!j
+O\U^
+O w!j
+O\U^
+Pek_
+TO\U^GS
+dkBf
+FO4l
+Device Connection
+Once the device is connected to the motherboard, the software will automatically detect the connected devices and display them on the app's homepage.
+RYUO-3D Video
+3D videos are created by specifying a range of viewing angles, so there may be some differences in actual performance under different viewing angles.
+,RiVj
+RYUO-Personalized Customization
+For full-screen display, considering the factor of occlusion, different aspect ratios are supported, which means that under different ratios, darkening processing will be applied to the right area; split-screen display currently only supports adding materials in a 1:1 ratio.
+RYUO-Asset Library
+The asset library supports the addition of images, videos, and GIFs, with a maximum size of 500MB. You can add up to 10 assets in the library, and if you continue adding more, they will overwrite based on the time of addition. The arrangement order in the asset library is based on the current selected aspect ratio and the time of addition.
+$Rg"Y!f
+RYUO-Parameter Display
+XRtV
+Supports up to 3 parameters with adjustable positions (left, center, right).
+ Rf~KdC
+RYUO-Screen Sleep
+The software needs to maintain continuous communication with the screen; otherwise, we won't be able to retrieve real-time hardware parameters. When sleep mode is enabled, the screen will enter a black screen state when your computer is turned off or the app is closed. When sleep mode is disabled, the screen will display a sleep animation when your computer is turned off or the app is closed.
+RYUO-Firmware Upgrade
+The overall process is divided into three steps: downloading the firmware package, transferring the firmware package, and upgrading the screen. The latter two steps cannot be interrupted; therefore, it is advisable not to close the app or power off during this time.
+$Rgz
+RYUO-Fan Speed Control
+Software support is available for adjusting the small fan speed, but the pump speed remains at the default value and is not controllable via software.
+Re~Rm
+intervalLevel
+isVideoScaleTODeviceSizeG
+$Rgn
+isImageScaleTODeviceSizeG
+videoBitrateC
+videoOuputFormat
+Re"z
+imageOuputFormat
+ffmpeg.exe
+Callback
+Rb2h
+void
+File
+FileList
+URLSearchParams
+kindOf
+kindOfTest
+RbNfc
+eject
+0Rj2
+application/1d-interleaved-parityfec
+0Rj2
+application/3gpdash-qoe-report+xml
+Rd^I.
+compressibleG
+application/3gpp-ims+xml
+application/3gpphal+json
+,RiJU
+application/3gpphalforms+json
+application/a2l
+application/ace+cbor
+application/activemessage
+application/activity+json
+application/alto-costmap+json
+application/alto-costmapfilter+json
+,RiZ
+application/alto-directory+json
+application/alto-endpointcost+json
+njb(
+application/alto-endpointcostparams+json
+application/alto-endpointprop+json
+application/alto-endpointpropparams+json
+(RhRg)_
+application/alto-error+json
+application/alto-networkmap+json
+application/alto-networkmapfilter+json
+application/alto-updatestreamcontrol+json
+application/alto-updatestreamparams+json
+application/aml
+application/andrew-inset
+application/applefile
+$Rgj
+application/applixware
+application/at+jwt
+application/atf
+application/atfx
+application/atom+xml
+atom
+application/atomcat+xml
+Rc"}
+atomcat
+application/atomdeleted+xml
+atomdeleted
+$Rg&
+application/atomicmail
+$Rgf
+application/atomsvc+xml
+atomsvc
+application/atsc-dwd+xml
+4RkJ,
+application/atsc-dynamic-event-message
+application/atsc-held+xml
+held
+application/atsc-rdt+json
+(Rh.
+application/atsc-rsat+xml
+rsat
+application/atxml
+application/auth-policy+xml
+application/bacnet-xdd+zip
+application/batch-smtp
+application/bdoc
+bdoc
+ Rf^
+application/beep+xml
+application/calendar+json
+$Rg2
+application/calendar+xml
+(Rhj
+application/call-completion
+$Rg.
+application/cals-1840
+application/captive+json
+application/cbor
+application/cbor-seq
+ Rf"|
+application/cccex
+ Rfz
+application/ccmp+xml
+application/ccxml+xml
+ccxml
+ RfZk
+application/cdfx+xml
+cdfx
+application/cdmi-capability
+cdmia
+(RhF
+application/cdmi-container
+cdmic
+application/cdmi-domain
+cdmid
+application/cdmi-object
+cdmio
+application/cdmi-queue
+cdmiq
+application/cdni
+application/cea
+application/cea-2018+xml
+application/cellml+xml
+application/cfw
+application/city+json
+Re2d
+application/clr
+ RfN
+application/clue+xml
+application/clue_info+xml
+application/cms
+application/cnrp+xml
+(Rhf
+application/coap-group+json
+application/coap-payload
+application/commonground
+application/conference-info+xml
+application/cose
+ RfV%9s
+application/cose-key
+application/cose-key-set
+application/cpl+xml
+application/csrattrs
+application/csta+xml
+application/cstadata+xml
+application/csvm+json
+application/cu-seeme
+ReVF31
+application/cwt
+application/cybercash
+application/dart
+application/dash+xml
+(Rhvh
+application/dash-patch+xml
+application/dashdelta
+$Rg^
+application/davmount+xml
+davmount
+ Rff
+application/dca-rft
+application/dcd
+ RfN"s
+application/dec-dx
+application/dialog-info+xml
+ Rf.BI
+application/dicom
+application/dicom+json
+application/dicom+xml
+Re"j(
+application/dii
+application/dit
+application/dns
+application/dns+json
+$RgN
+application/dns-message
+$Rg*`
+application/docbook+xml
+application/dots+cbor
+application/dskpp+xml
+ Rf.]
+application/dssc+der
+Rbb2
+dssc
+ RfF
+application/dssc+xml
+xdssc
+application/dvcs
+application/ecmascript
+ecma
+$Rg:
+application/edi-consent
+application/edi-x12
+application/edifact
+application/efi
+application/elm+json
+ Rf&
+application/elm+xml
+application/emergencycalldata.cap+xml
+application/emergencycalldata.comment+xml
+application/emergencycalldata.control+xml
+application/emergencycalldata.deviceinfo+xml
+application/emergencycalldata.ecall.msd
+application/emergencycalldata.providerinfo+xml
+application/emergencycalldata.serviceinfo+xml
+<Rmb
+application/emergencycalldata.subscriberinfo+xml
+application/emergencycalldata.veds+xml
+ Rff
+application/emma+xml
+emma
+application/emotionml+xml
+emotionml
+ Rf&B
+application/encaprtp
+application/epp+xml
+ RfZ!
+application/epub+zip
+RbNY
+epub
+ Rfj(
+application/eshop
+application/exi
+application/expect-ct-report+json
+application/express
+$RgZ
+application/fastinfoset
+ Rf*
+application/fastsoap
+application/fdt+xml
+application/fhir+json
+ RfF
+application/fhir+xml
+application/fido.trusted-apps+json
+application/fits
+application/flexfec
+$RgV{
+application/font-sfnt
+$RgV
+application/font-tdpfr
+application/font-woff
+0RjN
+application/framework-attributes+xml
+application/geo+json
+geojson
+application/geo+json-seq
+application/geopackage+sqlite3
+application/geoxacml+xml
+application/gltf-buffer
+ Rf^
+application/gml+xml
+Rb6[K
+application/gpx+xml
+application/gxf
+Rb.c
+application/gzip
+application/h224
+application/held+xml
+application/hjson
+hjson
+application/http
+application/hyperstudio
+application/ibe-key-request+xml
+application/ibe-pkg-reply+xml
+$RgZ~
+application/ibe-pp-data
+application/iges
+application/im-iscomposing+xml
+ Rfjj
+application/index
+$Rg6
+application/index.cmd
+$Rg2
+application/index.obj
+(Rhb
+application/index.response
+application/index.vnd
+application/inkml+xml
+inkml
+application/iotp
+application/ipfix
+RcBb
+ipfix
+application/ipp
+application/isup
+ Rf2
+application/its+xml
+RbFx
+application/java-archive
+Rbz(
+Rbvb
+application/java-serialized-object
+application/java-vm
+class
+application/javascript
+$Rg*
+application/jf2feed+json
+application/jose
+application/jose+json
+ RfF
+application/jrd+json
+(Rh2
+application/jscalendar+json
+(Rh6
+application/json-patch+json
+ Rf^
+application/json-seq
+application/json5
+json5
+application/jsonml+json
+jsonml
+application/jwk+json
+application/jwk-set+json
+ReNbzV
+application/jwt
+application/kpml-request+xml
+application/kpml-response+xml
+ Rf.h
+application/ld+json
+jsonld
+application/lgr+xml
+$RgVD
+application/link-format
+(Rh^
+application/load-control+xml
+ RfZ3B|
+application/lost+xml
+lostxml
+application/lostsync+xml
+application/lpf+zip
+application/lxf
+application/mac-binhex40
+(RhR
+application/mac-compactpro
+application/macwriteii
+application/mads+xml
+mads
+application/manifest+json
+webmanifest
+application/marc
+$Rgjg
+application/marcxml+xml
+mrcx
+application/mathematica
+$RgFR
+application/mathml+xml
+mathml
+application/mathml-content+xml
+application/mathml-presentation+xml
+application/mbms-associated-procedure-description+xml
+application/mbms-deregister+xml
+application/mbms-envelope+xml
+application/mbms-msk+xml
+0RjV
+application/mbms-msk-response+xml
+8RlV
+application/mbms-protection-description+xml
+application/mbms-reception-report+xml
+,Ri&#
+application/mbms-register+xml
+4RkB
+application/mbms-register-response+xml
+,Riv
+application/mbms-schedule+xml
+application/mbms-user-service-description+xml
+application/mbox
+mbox
+application/media-policy-dataset+xml
+,Riz
+application/media_control+xml
+@a$"
+application/mediaservercontrol+xml
+mscml
+application/merge-patch+json
+$Rg:R
+application/metalink+xml
+Rcj 
+metalink
+application/metalink4+xml
+meta4
+application/mets+xml
+mets
+application/mf4
+ Rfz
+application/mikey
+application/mipc
+0Rjb
+application/missing-blocks+cbor-seq
+$RgB
+application/mmt-aei+xml
+maei
+application/mmt-usd+xml
+musd
+ Rf2
+application/mods+xml
+mods
+$Rg>
+application/moss-keys
+(RhN
+application/moss-signature
+$Rg6
+application/mosskey-data
+application/mosskey-request
+application/mp21
+RbR'
+mp21
+Re^i
+application/mp4
+mp4s
+RbZ\
+application/mpeg4-generic
+$RgZ?X
+application/mpeg4-iod
+application/mpeg4-iod-xmt
+(Rh"f^
+application/mrb-consumer+xml
+application/mrb-publish+xml
+$RgF
+application/msc-ivr+xml
+application/msc-mixer+xml
+application/msword
+Rb2K
+application/mud+json
+application/multipart-core
+Re*G<
+application/mxf
+application/n-quads
+$Rg2
+application/n-triples
+ Rf&}
+application/nasdata
+application/news-checkgroups
+US-ASCII
+application/news-groupinfo
+application/news-transmission
+application/nlsml+xml
+Re"G
+application/node
+application/nss
+application/oauth-authz-req+jwt
+Qy !
+application/oblivious-dns-message
+application/ocsp-request
+application/ocsp-response
+`M`,
+dist
+distz
+dump
+deploy
+Re: 
+application/oda
+Rbn-
+application/odm+xml
+application/odx
+,RiN]c
+application/oebps-package+xml
+application/ogg
+application/omdoc+xml
+omdoc
+ RfB
+application/onenote
+RcZQ
+onetoc
+onetoc2
+onetmp
+onepkg
+(RhR
+application/opc-nodeset+xml
+application/oscore
+application/oxps
+oxps
+application/p21
+ Rfn
+application/p21+zip
+application/p2p-overlay+xml
+relo
+application/parityfec
+application/passport
+application/patch-ops-error+xml
+application/pdf
+application/pdx
+Q)&!
+application/pem-certificate-chain
+application/pgp-encrypted
+application/pgp-keys
+(Rhvg
+application/pgp-signature
+$Rg:M
+application/pics-rules
+application/pidf+xml
+application/pidf-diff+xml
+application/pkcs10
+application/pkcs12
+$RgFCi
+application/pkcs7-mime
+application/pkcs7-signature
+ RfN
+application/pkcs8
+application/pkcs8-encrypted
+application/pkix-attr-cert
+application/pkix-cert
+ RfBbb|
+application/pkix-crl
+application/pkix-pkipath
+pkipath
+application/pkixcmp
+application/pls+xml
+Rb2~
+(RhR
+application/poc-settings+xml
+$Rg2
+application/postscript
+application/ppsp-tracker+json
+application/problem+json
+application/problem+xml
+(Rh^
+application/provenance+xml
+provx
+4Rkf
+application/prs.alvestrand.titrax-sheet
+application/prs.cww
+application/prs.cyn
+7-BIT
+$Rg2ln
+application/prs.hpub+zip
+application/prs.nprend
+$Rg*
+application/prs.plucker
+application/prs.rdf-xml-crypt
+$RgrL
+application/prs.xsf+xml
+ Rfb
+application/pskc+xml
+pskcxml
+application/pvd+json
+application/qsig
+application/raml+yaml
+RbZv`9
+raml
+$Rgv
+application/raptorfec
+application/rdap+json
+application/rdf+xml
+application/reginfo+xml
+application/relax-ng-compact-syntax
+(RhJ
+application/remote-printing
+application/reputon+json
+,RifF
+application/resource-lists+xml
+application/resource-lists-diff+xml
+application/rfc+xml
+application/riscos
+application/rlmi+xml
+application/rls-services+xml
+(Rh>
+application/route-apd+xml
+Rb2i
+rapd
+(Rh~
+application/route-s-tsid+xml
+application/route-usd+xml
+rusd
+application/rpki-ghostbusters
+application/rpki-manifest
+(Rhvf
+application/rpki-publication
+application/rpki-roa
+application/rpki-updown
+application/rsd+xml
+ Rfn
+application/rss+xml
+application/rtf
+application/rtploopback
+application/rtx
+application/samlassertion+xml
+(Rhj
+application/samlmetadata+xml
+application/sarif+json
+application/sarif-external-properties+json
+application/sbe
+application/sbml+xml
+RbBR6K
+sbml
+application/scaip+xml
+application/scim+json
+(Rhz
+application/scvp-cv-request
+application/scvp-cv-response
+application/scvp-vp-request
+application/scvp-vp-response
+application/sdp
+$Rg~s
+application/secevent+jwt
+application/senml+cbor
+application/senml+json
+application/senml+xml
+senmlx
+application/senml-etch+cbor
+(Rhz#A
+application/senml-etch+json
+application/senml-exi
+application/sensml+cbor
+$RgJ
+application/sensml+json
+application/sensml+xml
+sensmlx
+application/sensml-exi
+ Rfb
+application/sep+xml
+application/sep-exi
+application/session-info
+$Rgv
+application/set-payment
+0Rj2
+application/set-payment-initiation
+setpay
+(RhJ
+application/set-registration
+application/set-registration-initiation
+setreg
+application/sgml
+application/sgml-open-catalog
+application/shf+xml
+application/sieve
+sieve
+application/simple-filter+xml
+application/simple-message-summary
+application/simplesymbolcontainer
+application/sipc
+application/slate
+Re:ew
+application/smil
+application/smil+xml
+Rbbw
+smil
+$Rg:
+application/smpte336m
+(Rhv
+application/soap+fastinfoset
+application/soap+xml
+application/sparql-query
+Rb^R
+,RiV
+application/sparql-results+xml
+application/spdx+json
+,Ri~g
+application/spirits-event+xml
+application/sql
+application/srgs
+gram
+application/srgs+xml
+grxml
+application/sru+xml
+ Rf2oX
+application/ssdl+xml
+ssdl
+ Rf>.8W
+application/ssml+xml
+ssml
+$Rgb
+application/stix+json
+ Rfz
+application/swid+xml
+Rc*W
+swidtag
+(Rhb
+application/tamp-apex-update
+application/tamp-apex-update-confirm
+application/tamp-community-update
+application/tamp-community-update-confirm
+application/tamp-error
+application/tamp-sequence-adjust
+a|](
+application/tamp-sequence-adjust-confirm
+,Ri6x8
+application/tamp-status-query
+application/tamp-status-response
+$Rgn
+application/tamp-update
+application/tamp-update-confirm
+application/tar
+$RgFV
+application/taxii+json
+application/td+json
+application/tei+xml
+teicorpus
+application/tetra_isi
+$Rg6
+application/thraud+xml
+RbVn
+application/timestamp-query
+application/timestamp-reply
+(RhrY
+application/timestamped-data
+$Rg:
+application/tlsrpt+gzip
+application/tlsrpt+json
+application/tnauthlist
+application/token-introspection+jwt
+application/toml
+toml
+,RizRo
+application/trickle-ice-sdpfrag
+application/trig
+Rb:7
+trig
+application/ttml+xml
+ttml
+application/tve-trigger
+application/tzif
+application/tzif-leap
+ Rf6
+application/ubjson
+application/ulpfec
+(Rhn2T
+application/urc-grpsheet+xml
+application/urc-ressheet+xml
+rsheet
+application/urc-targetdesc+xml
+,Riz
+application/urc-uisocketdesc+xml
+$Rgj
+application/vcard+json
+application/vcard+xml
+application/vemmi
+application/vividence.scriptfile
+8Rl^ 
+application/vnd.1000minds.decision-model+xml
+application/vnd.3gpp-prose+xml
+0Rj~
+application/vnd.3gpp-prose-pc3ch+xml
+@Rn"H
+application/vnd.3gpp-v2x-local-service-information
+application/vnd.3gpp.5gnas
+application/vnd.3gpp.access-transfer-events+xml
+application/vnd.3gpp.bsf+xml
+,Ri>j&l
+application/vnd.3gpp.gmop+xml
+application/vnd.3gpp.gtpc
+4RkR
+application/vnd.3gpp.interworking-data
+$Rg6
+application/vnd.3gpp.lpp
+application/vnd.3gpp.mc-signalling-ear
+@Rn6R
+application/vnd.3gpp.mcdata-affiliation-command+xml
+application/vnd.3gpp.mcdata-info+xml
+0Rj&
+application/vnd.3gpp.mcdata-payload
+application/vnd.3gpp.mcdata-service-config+xml
+4RkV
+application/vnd.3gpp.mcdata-signalling
+8RlN%
+application/vnd.3gpp.mcdata-ue-config+xml
+application/vnd.3gpp.mcdata-user-profile+xml
+@Rn6
+application/vnd.3gpp.mcptt-affiliation-command+xml
+8Rl^
+application/vnd.3gpp.mcptt-floor-request+xml
+application/vnd.3gpp.mcptt-info+xml
+Ns:,
+application/vnd.3gpp.mcptt-location-info+xml
+<RmF
+application/vnd.3gpp.mcptt-mbms-usage-info+xml
+application/vnd.3gpp.mcptt-service-config+xml
+application/vnd.3gpp.mcptt-signed+xml
+application/vnd.3gpp.mcptt-ue-config+xml
+application/vnd.3gpp.mcptt-ue-init-config+xml
+)_B+
+application/vnd.3gpp.mcptt-user-profile+xml
+@Rn^
+application/vnd.3gpp.mcvideo-affiliation-command+xml
+application/vnd.3gpp.mcvideo-affiliation-info+xml
+application/vnd.3gpp.mcvideo-info+xml
+application/vnd.3gpp.mcvideo-location-info+xml
+<Rm>LI
+application/vnd.3gpp.mcvideo-mbms-usage-info+xml
+<RmrY
+application/vnd.3gpp.mcvideo-service-config+xml
+DRor
+application/vnd.3gpp.mcvideo-transmission-request+xml
+8Rl>u)3*
+application/vnd.3gpp.mcvideo-ue-config+xml
+<RmV
+application/vnd.3gpp.mcvideo-user-profile+xml
+application/vnd.3gpp.mid-call+xml
+(Rh.
+application/vnd.3gpp.ngap
+application/vnd.3gpp.pfcp
+@T.!
+application/vnd.3gpp.pic-bw-large
+application/vnd.3gpp.pic-bw-small
+,Rif
+application/vnd.3gpp.pic-bw-var
+application/vnd.3gpp.s1ap
+application/vnd.3gpp.sms
+(Rh6
+application/vnd.3gpp.sms+xml
+0Rjjl
+application/vnd.3gpp.srvcc-ext+xml
+application/vnd.3gpp.srvcc-info+xml
+<Rmn
+application/vnd.3gpp.state-and-event-info+xml
+application/vnd.3gpp.ussd+xml
+application/vnd.3gpp2.bcmcsinfo+xml
+(Rh*
+application/vnd.3gpp2.sms
+application/vnd.3gpp2.tcap
+tcap
+application/vnd.3lightssoftware.imagescal
+application/vnd.3m.post-it-notes
+0Rj"]
+application/vnd.accpac.simply.aso
+application/vnd.accpac.simply.imp
+application/vnd.acucobol
+Rb.!v
+application/vnd.acucorp
+acutc
+application/vnd.adobe.air-application-installer-package+zip
+application/vnd.adobe.flash.movie
+4Rkr
+application/vnd.adobe.formscentral.fcdt
+fcdt
+application/vnd.adobe.fxp
+fxpl
+application/vnd.adobe.partial-upload
+application/vnd.adobe.xdp+xml
+(Rhz
+application/vnd.adobe.xfdf
+xfdf
+application/vnd.aether.imp
+application/vnd.afpc.afplinedata
+&f`(
+application/vnd.afpc.afplinedata-pagedef
+application/vnd.afpc.cmoca-cmresource
+application/vnd.afpc.foca-charset
+application/vnd.afpc.foca-codedfont
+application/vnd.afpc.foca-codepage
+(Rhr
+application/vnd.afpc.modca
+application/vnd.afpc.modca-cmtable
+0RjF8z
+application/vnd.afpc.modca-formdef
+application/vnd.afpc.modca-mediummap
+8RlZ+
+application/vnd.afpc.modca-objectcontainer
+application/vnd.afpc.modca-overlay
+application/vnd.afpc.modca-pagesegment
+application/vnd.age
+application/vnd.ah-barcode
+application/vnd.ahead.space
+ahead
+4RkF
+application/vnd.airzip.filesecure.azf
+application/vnd.airzip.filesecure.azs
+application/vnd.amadeus+json
+application/vnd.amazon.ebook
+0Rj>%|
+application/vnd.amazon.mobi8-ebook
+0Rj>EN
+application/vnd.americandynamics.acc
+(Rhj
+application/vnd.amiga.ami
+Rb22
+0RjR
+application/vnd.amundsen.maze+xml
+(Rhb
+application/vnd.android.ota
+application/vnd.android.package-archive
+ Rffu~q
+application/vnd.anki
+application/vnd.anser-web-certificate-issue-initiation
+application/vnd.anser-web-funds-transfer-initiation
+application/vnd.antix.game-component
+application/vnd.apache.arrow.file
+application/vnd.apache.arrow.stream
+0RjN
+application/vnd.apache.thrift.binary
+4Rk&"
+application/vnd.apache.thrift.compact
+application/vnd.apache.thrift.json
+application/vnd.api+json
+application/vnd.aplextor.warrp+json
+application/vnd.apothekende.reservation+json
+application/vnd.apple.installer+xml
+mpkg
+application/vnd.apple.keynote
+application/vnd.apple.mpegurl
+m3u8
+,Rin
+application/vnd.apple.numbers
+numbers
+application/vnd.apple.pages
+(Rhz
+application/vnd.apple.pkpass
+pkpass
+application/vnd.arastra.swi
+0Rj.
+application/vnd.aristanetworks.swi
+(Rh.
+application/vnd.artisan+json
+(Rh>
+application/vnd.artsquare
+application/vnd.astraea-software.iota
+iota
+(Rh6
+application/vnd.audiograph
+RbNE
+(Rhr#
+application/vnd.autopackage
+application/vnd.avalon+json
+(Rh~
+application/vnd.avistar+xml
+application/vnd.balsamiq.bmml+xml
+bmml
+,Ri&
+application/vnd.balsamiq.bmpr
+application/vnd.banana-accounting
+,Ri.
+application/vnd.bbf.usp.error
+application/vnd.bbf.usp.msg
+,RiF
+application/vnd.bbf.usp.msg+json
+0RjZ%
+application/vnd.bekitzur-stech+json
+,Ri2
+application/vnd.bint.med-content
+application/vnd.biopax.rdf+xml
+application/vnd.blink-idb-value-wrapper
+0RjZ
+application/vnd.blueice.multipass
+,RiV
+application/vnd.bluetooth.ep.oob
+application/vnd.bluetooth.le.oob
+application/vnd.bmi
+ RfB=o
+application/vnd.bpf
+application/vnd.bpf3
+application/vnd.businessobjects
+,RiF
+application/vnd.byu.uapi+json
+application/vnd.cab-jscript
+application/vnd.canon-cpdl
+application/vnd.canon-lips
+application/vnd.capasystems-pg+json
+application/vnd.cendio.thinlinc.clientconf
+application/vnd.century-systems.tcp_stream
+(Rhj
+application/vnd.chemdraw+xml
+Rcj{
+cdxml
+(Rhb
+application/vnd.chess-pgn
+0RjFjPw$
+application/vnd.chipnuts.karaoke-mmd
+$RgZae{
+application/vnd.ciedi
+application/vnd.cinderella
+Rbb>
+,Ribcf
+application/vnd.cirpack.isdn-ext
+4Rk~w
+application/vnd.citationstyles.style+xml
+$RgZ
+application/vnd.claymore
+RbZR
+(RhV
+application/vnd.cloanto.rp9
+application/vnd.clonk.c4group
+application/vnd.cluetrust.cartomobile-config
+c11amc
+<Rmf
+application/vnd.cluetrust.cartomobile-config-pkg
+c11amz
+(RhZ T
+application/vnd.coffeescript
+<Rm"1
+application/vnd.collabio.xodocuments.document
+application/vnd.collabio.xodocuments.document-template
+application/vnd.collabio.xodocuments.presentation
+application/vnd.collabio.xodocuments.presentation-template
+<Rmr$
+application/vnd.collabio.xodocuments.spreadsheet
+HRpV!N
+application/vnd.collabio.xodocuments.spreadsheet-template
+,RiV
+application/vnd.collection+json
+K%/#
+application/vnd.collection.doc+json
+0Rj:
+application/vnd.collection.next+json
+,RiNM
+application/vnd.comicbook+zip
+application/vnd.comicbook-rar
+application/vnd.commerce-battelle
+(Rhb
+application/vnd.commonspace
+application/vnd.contact.cmsg
+cdbcmsg
+0Rjrt!
+application/vnd.coreos.ignition+json
+application/vnd.cosmocaller
+application/vnd.crick.clicker
+clkx
+application/vnd.crick.clicker.keyboard
+Rbv;
+clkk
+4Rk:|
+application/vnd.crick.clicker.palette
+clkp
+application/vnd.crick.clicker.template
+RbVT=V
+clkt
+application/vnd.crick.clicker.wordbank
+clkw
+application/vnd.criticaltools.wbs+xml
+Rb:.
+application/vnd.cryptii.pipe+json
+application/vnd.crypto-shade-file
+4Rkv
+application/vnd.cryptomator.encrypted
+0Rjv
+application/vnd.cryptomator.vault
+(Rhb
+application/vnd.ctc-posml
+application/vnd.ctct.ws+xml
+$Rg^
+application/vnd.cups-pdf
+,Ri~
+application/vnd.cups-postscript
+application/vnd.cups-ppd
+(Rh:
+application/vnd.cups-raster
+application/vnd.cups-raw
+application/vnd.curl
+$RgR
+application/vnd.curl.car
+application/vnd.curl.pcurl
+pcurl
+application/vnd.cyan.dean.root+xml
+application/vnd.cybank
+application/vnd.cyclonedx+json
+,Ri2
+application/vnd.cyclonedx+xml
+4RkJ
+application/vnd.d2l.coursepackage1p0+zip
+application/vnd.d3m-dataset
+application/vnd.d3m-problem
+application/vnd.dart
+dart
+,Ri6
+application/vnd.data-vision.rdz
+,Ri~
+application/vnd.datapackage+json
+0Rj"q
+application/vnd.dataresource+json
+application/vnd.dbf
+4Rk"H
+application/vnd.debian.binary-package
+application/vnd.dece.data
+RbJ`
+uvvf
+Rb6Ew
+RbJX
+uvvd
+application/vnd.dece.ttml+xml
+RbVi
+uvvt
+.Fr 
+application/vnd.dece.unspecified
+uvvx
+application/vnd.dece.zip
+uvvz
+application/vnd.denovo.fcselayout-link
+fe_launch
+application/vnd.desmume.movie
+4Rkb
+application/vnd.dir-bi.plate-dl-nosuffix
+0Rj^4
+application/vnd.dm.delegation+xml
+application/vnd.dna
+,RinPW
+application/vnd.document+json
+(RhFMm%
+application/vnd.dolby.mlp
+application/vnd.dolby.mobile.1
+,Rir4-
+application/vnd.dolby.mobile.2
+@Rn:8
+application/vnd.doremir.scorecloud-binary-document
+application/vnd.dpgraph
+Rb*u
+(Rh"
+application/vnd.dreamfactory
+dfac
+application/vnd.drive+json
+application/vnd.ds-keypoint
+kpxx
+application/vnd.dtg.local
+application/vnd.dtg.local.flash
+application/vnd.dtg.local.html
+application/vnd.dvb.ait
+,Rin
+application/vnd.dvb.dvbisl+xml
+application/vnd.dvb.dvbj
+,Rib
+application/vnd.dvb.esgcontainer
+4Rk"
+application/vnd.dvb.ipdcdftnotifaccess
+application/vnd.dvb.ipdcesgaccess
+0RjfGH
+application/vnd.dvb.ipdcesgaccess2
+application/vnd.dvb.ipdcesgpdd
+application/vnd.dvb.ipdcroaming
+application/vnd.dvb.iptv.alfec-base
+8Rl.wZ
+application/vnd.dvb.iptv.alfec-enhancement
+application/vnd.dvb.notif-aggregate-root+xml
+application/vnd.dvb.notif-container+xml
+application/vnd.dvb.notif-generic+xml
+xvO(
+application/vnd.dvb.notif-ia-msglist+xml
+DRo"
+application/vnd.dvb.notif-ia-registration-request+xml
+application/vnd.dvb.notif-ia-registration-response+xml
+application/vnd.dvb.notif-init+xml
+application/vnd.dvb.pfr
+application/vnd.dvb.service
+ Rf>s
+application/vnd.dxr
+application/vnd.dynageo
+ Rf^
+application/vnd.dzr
+application/vnd.easykaraoke.cdgdownload
+(Rhj
+application/vnd.ecdis-update
+application/vnd.ecip.rlp
+?_S"
+application/vnd.eclipse.ditto+json
+(RhZ>g
+application/vnd.ecowin.chart
+application/vnd.ecowin.filerequest
+application/vnd.ecowin.fileupdate
+application/vnd.ecowin.series
+0Rjb
+application/vnd.ecowin.seriesrequest
+0Rjn
+application/vnd.ecowin.seriesupdate
+application/vnd.efi.img
+$Rgv
+application/vnd.efi.iso
+8Rl~
+application/vnd.emclient.accessrequest+xml
+$RgVX1S
+application/vnd.enliven
+,RiNW~
+application/vnd.enphase.envoy
+application/vnd.eprints.data+xml
+application/vnd.epson.esf
+application/vnd.epson.msf
+,Ri:+
+application/vnd.epson.quickanime
+(Rh*
+application/vnd.epson.salt
+application/vnd.epson.ssf
+application/vnd.ericsson.quickcall
+0Rjni_<!
+application/vnd.espass-espass+zip
+(Rh~&+
+application/vnd.eszigno3+xml
+application/vnd.etsi.aoc+xml
+application/vnd.etsi.asic-e+zip
+application/vnd.etsi.asic-s+zip
+(RhvBuo
+application/vnd.etsi.cug+xml
+0RjV
+application/vnd.etsi.iptvcommand+xml
+application/vnd.etsi.iptvdiscovery+xml
+application/vnd.etsi.iptvprofile+xml
+application/vnd.etsi.iptvsad-bc+xml
+application/vnd.etsi.iptvsad-cod+xml
+application/vnd.etsi.iptvsad-npvr+xml
+application/vnd.etsi.iptvservice+xml
+0RjR
+application/vnd.etsi.iptvsync+xml
+4RkZ
+application/vnd.etsi.iptvueprofile+xml
+application/vnd.etsi.mcid+xml
+application/vnd.etsi.mheg5
+DRo25
+application/vnd.etsi.overload-control-policy-dataset+xml
+application/vnd.etsi.pstn+xml
+application/vnd.etsi.sci+xml
+0Rj~
+application/vnd.etsi.simservs+xml
+application/vnd.etsi.timestamp-token
+application/vnd.etsi.tsl+xml
+application/vnd.etsi.tsl.der
+application/vnd.eu.kasparian.car+json
+application/vnd.eudora.data
+application/vnd.evolv.ecig.profile
+application/vnd.evolv.ecig.settings
+application/vnd.evolv.ecig.theme
+application/vnd.exstream-empower+zip
+,Ri6
+application/vnd.exstream-package
+application/vnd.ezpix-album
+,Ri&
+application/vnd.ezpix-package
+,Rif
+application/vnd.f-secure.mobile
+application/vnd.familysearch.gedcom+zip
+0RjB
+application/vnd.fastcopy-disk-image
+application/vnd.fdf
+RbNR
+application/vnd.fdsn.mseed
+mseed
+(RhN*q
+application/vnd.fdsn.seed
+seed
+dataless
+application/vnd.ffsns
+application/vnd.ficlab.flb+zip
+(Rhr|
+application/vnd.filmit.zfc
+$Rg*\a 
+application/vnd.fints
+application/vnd.firemonkeys.cloudcell
+application/vnd.flographit
+,Ri6
+application/vnd.fluxtime.clip
+application/vnd.font-fontforge-sfd
+application/vnd.framemaker
+maker
+book
+application/vnd.frogans.fnc
+application/vnd.frogans.ltf
+application/vnd.fsc.weblaunch
+application/vnd.fujifilm.fb.docuworks
+application/vnd.fujifilm.fb.docuworks.binder
+application/vnd.fujifilm.fb.docuworks.container
+application/vnd.fujifilm.fb.jfi+xml
+application/vnd.fujitsu.oasys
+application/vnd.fujitsu.oasys2
+application/vnd.fujitsu.oasys3
+application/vnd.fujitsu.oasysgp
+,Ri"
+application/vnd.fujitsu.oasysprs
+Rbb$V"
+application/vnd.fujixerox.art-ex
+application/vnd.fujixerox.art4
+,RiZ
+application/vnd.fujixerox.ddd
+0RjJ
+application/vnd.fujixerox.docuworks
+8Rl^
+application/vnd.fujixerox.docuworks.binder
+application/vnd.fujixerox.docuworks.container
+,Ri*
+application/vnd.fujixerox.hbpl
+application/vnd.fut-misnet
+application/vnd.futoin+cbor
+(RhB
+application/vnd.futoin+json
+(Rh^
+application/vnd.fuzzysheet
+,Ri.
+application/vnd.genomatix.tuxedo
+Rb2;
+application/vnd.gentics.grd+json
+application/vnd.geo+json
+application/vnd.geocube+xml
+application/vnd.geogebra.file
+,Ri>
+application/vnd.geogebra.slides
+application/vnd.geogebra.tool
+application/vnd.geometry-explorer
+application/vnd.geonext
+Rbvg
+$Rg~j
+application/vnd.geoplan
+application/vnd.geospace
+application/vnd.gerber
+<RmJ
+application/vnd.globalplatform.card-content-mgt
+application/vnd.globalplatform.card-content-mgt-response
+application/vnd.gmx
+0Rj>
+application/vnd.google-apps.document
+gdoc
+application/vnd.google-apps.presentation
+gslides
+4Rk"
+application/vnd.google-apps.spreadsheet
+Rcb~
+gsheet
+application/vnd.google-earth.kml+xml
+,RiFSv| 
+application/vnd.google-earth.kmz
+0Rj*.tm!
+application/vnd.gov.sk.e-form+xml
+application/vnd.gov.sk.e-form+zip
+8Rlf
+application/vnd.gov.sk.xmldatacontainer+xml
+$Rgf"
+application/vnd.grafeq
+Rbr^
+$Rg"
+application/vnd.gridmp
+,Ri:
+application/vnd.groove-account
+application/vnd.groove-help
+application/vnd.groove-identity-message
+application/vnd.groove-injector
+OTy#
+application/vnd.groove-tool-message
+application/vnd.groove-tool-template
+(RhrN
+application/vnd.groove-vcard
+application/vnd.hal+json
+application/vnd.hal+xml
+application/vnd.handheld-entertainment+xml
+ RfZ7"
+application/vnd.hbci
+hbci
+$Rgr
+application/vnd.hc+json
+application/vnd.hcl-bireports
+ Rfr1v>
+application/vnd.hdt
+application/vnd.heroku+json
+0Rj6]
+application/vnd.hhe.lesson-player
+(Rh~hc
+application/vnd.hl7cda+xml
+application/vnd.hl7v2+xml
+application/vnd.hp-hpgl
+hpgl
+$RgfT
+application/vnd.hp-hpid
+hpid
+application/vnd.hp-hps
+$Rgv
+application/vnd.hp-jlyt
+application/vnd.hp-pcl
+$Rg^
+application/vnd.hp-pclxl
+Rcr%
+pclxl
+application/vnd.httphone
+0Rj^
+application/vnd.hydrostatix.sof-data
+RdBox
+sfd-hdstx
+application/vnd.hyper+json
+,Ri&
+application/vnd.hyper-item+json
+,Rif
+application/vnd.hyperdrive+json
+,RiB
+application/vnd.hzn-3d-crossword
+application/vnd.ibm.afplinedata
+0Rj*k  $
+application/vnd.ibm.electronic-media
+(Rh.
+application/vnd.ibm.minipay
+application/vnd.ibm.modcap
+listafp
+list3820
+application/vnd.ibm.rights-management
+0Rj:@
+application/vnd.ibm.secure-container
+application/vnd.iccprofile
+application/vnd.ieee.1905
+application/vnd.igloader
+application/vnd.imagemeter.folder+zip
+application/vnd.imagemeter.image+zip
+application/vnd.immervision-ivp
+,RiJ
+application/vnd.immervision-ivu
+application/vnd.ims.imsccv1p1
+,Ri.
+application/vnd.ims.imsccv1p2
+,RivGr[
+application/vnd.ims.imsccv1p3
+application/vnd.ims.lis.v2.result+json
+application/vnd.ims.lti.v2.toolconsumerprofile+json
+application/vnd.ims.lti.v2.toolproxy+json
+8Rl6
+application/vnd.ims.lti.v2.toolproxy.id+json
+application/vnd.ims.lti.v2.toolsettings+json
+application/vnd.ims.lti.v2.toolsettings.simple+json
+4Rkju
+application/vnd.informedcontrol.rms+xml
+0Rjf
+application/vnd.informix-visionary
+application/vnd.infotech.project
+application/vnd.infotech.project+xml
+8Rlb]
+application/vnd.innopath.wamp.notification
+application/vnd.insors.igm
+Rbb59r
+application/vnd.intercon.formnet
+RbV<
+application/vnd.intergeo
+Rbn4
+0Rj2
+application/vnd.intertrust.digibox
+application/vnd.intertrust.nncp
+$Rgv}}]
+application/vnd.intu.qbo
+$Rg:
+application/vnd.intu.qfx
+4RkB
+application/vnd.iptc.g2.catalogitem+xml
+application/vnd.iptc.g2.conceptitem+xml
+8RlRL
+application/vnd.iptc.g2.knowledgeitem+xml
+application/vnd.iptc.g2.newsitem+xml
+application/vnd.iptc.g2.newsmessage+xml
+application/vnd.iptc.g2.packageitem+xml
+application/vnd.iptc.g2.planningitem+xml
+application/vnd.ipunplugged.rcprofile
+RdVZ=
+rcprofile
+application/vnd.irepository.package+xml
+$Rg"A
+application/vnd.is-xpr
+application/vnd.isac.fcs
+,Ri:,
+application/vnd.iso11783-10+zip
+application/vnd.jam
+8RlnKU?*
+application/vnd.japannet-directory-service
+4Rk"
+application/vnd.japannet-jpnstore-wakeup
+4RkF
+application/vnd.japannet-payment-wakeup
+ZVI%
+application/vnd.japannet-registration
+application/vnd.japannet-registration-wakeup
+application/vnd.japannet-setstore-wakeup
+4Rk&
+application/vnd.japannet-verification
+8RlN
+application/vnd.japannet-verification-wakeup
+application/vnd.jcp.javame.midlet-rms
+application/vnd.jisp
+jisp
+application/vnd.joost.joda-archive
+joda
+application/vnd.jsk.isdn-ngn
+application/vnd.kahootz
+(RhND{
+application/vnd.kde.karbon
+karbon
+(Rhv
+application/vnd.kde.kchart
+Rb^j
+chrt
+application/vnd.kde.kformula
+application/vnd.kde.kivio
+(RhFo
+application/vnd.kde.kontour
+,Ri"
+application/vnd.kde.kpresenter
+application/vnd.kde.kspread
+application/vnd.kde.kword
+application/vnd.kenameaapp
+htke
+application/vnd.kidspiration
+application/vnd.kinar
+ RfN
+application/vnd.koan
+application/vnd.kodak-descriptor
+ Rf~
+application/vnd.las
+application/vnd.las.las+json
+(Rh:N
+application/vnd.las.las+xml
+lasxml
+application/vnd.laszip
+(Rhj
+application/vnd.leap+json
+0Rjz
+application/vnd.liberty-request+xml
+P.W2
+application/vnd.llamagraphics.life-balance.desktop
+application/vnd.llamagraphics.life-balance.exchange+xml
+application/vnd.logipipe.circuit+zip
+application/vnd.loom
+application/vnd.lotus-1-2-3
+application/vnd.lotus-approach
+application/vnd.lotus-freelance
+(Rhf
+application/vnd.lotus-notes
+,Ri"
+application/vnd.lotus-organizer
+application/vnd.lotus-screencam
+application/vnd.lotus-wordpro
+application/vnd.macports.portpkg
+portpkg
+application/vnd.mapbox-vector-tile
+application/vnd.marlin.drm.actiontoken+xml
+4Rk2T
+application/vnd.marlin.drm.conftoken+xml
+application/vnd.marlin.drm.license+xml
+application/vnd.marlin.drm.mdcf
+application/vnd.mason+json
+4Rkj
+application/vnd.maxar.archive.3tz+zip
+application/vnd.maxmind.maxmind-db
+application/vnd.mcd
+application/vnd.medcalcdata
+application/vnd.mediastation.cdkey
+cdkey
+application/vnd.meridian-slingshot
+application/vnd.mfer
+ Rfv
+application/vnd.mfmp
+(Rh>
+application/vnd.micro+json
+application/vnd.micrografx.flo
+,Ri2
+application/vnd.micrografx.igx
+application/vnd.microsoft.portable-executable
+@RnfF
+application/vnd.microsoft.windows.thumbnail-cache
+application/vnd.miele+json
+application/vnd.mif
+0Rj6
+application/vnd.minisoft-hp3000-save
+application/vnd.mitsubishi.misty-guard.trustweb
+(Rhz
+application/vnd.mobius.daf
+(RhzQ
+application/vnd.mobius.dis
+application/vnd.mobius.mbk
+application/vnd.mobius.mqy
+application/vnd.mobius.msl
+application/vnd.mobius.plc
+(RhB
+application/vnd.mobius.txf
+application/vnd.mophun.application
+application/vnd.mophun.certificate
+0RjZ
+application/vnd.motorola.flexsuite
+application/vnd.motorola.flexsuite.adsi
+application/vnd.motorola.flexsuite.fis
+application/vnd.motorola.flexsuite.gotap
+4RkNF
+application/vnd.motorola.flexsuite.kmr
+application/vnd.motorola.flexsuite.ttc
+application/vnd.motorola.flexsuite.wem
+application/vnd.motorola.iprm
+,Rij
+application/vnd.mozilla.xul+xml
+application/vnd.ms-3mfdocument
+(Rh6
+application/vnd.ms-artgalry
+application/vnd.ms-asf
+0RjJ
+application/vnd.ms-cab-compressed
+application/vnd.ms-color.iccprofile
+application/vnd.ms-excel
+RbFg
+Rbn7
+<Rm&
+application/vnd.ms-excel.addin.macroenabled.12
+xlam
+application/vnd.ms-excel.sheet.binary.macroenabled.12
+xlsb
+<Rm&
+application/vnd.ms-excel.sheet.macroenabled.12
+xlsm
+@Rnz
+application/vnd.ms-excel.template.macroenabled.12
+xltm
+application/vnd.ms-fontobject
+(Rhb-
+application/vnd.ms-htmlhelp
+application/vnd.ms-ims
+application/vnd.ms-lrm
+4Rkf
+application/vnd.ms-office.activex+xml
+application/vnd.ms-officetheme
+thmx
+(RhzT
+application/vnd.ms-opentype
+application/vnd.ms-outlook
+<RmnY|
+application/vnd.ms-package.obfuscated-opentype
+application/vnd.ms-pki.seccat
+application/vnd.ms-pki.stl
+application/vnd.ms-playready.initiator+xml
+application/vnd.ms-powerpoint
+application/vnd.ms-powerpoint.addin.macroenabled.12
+ppam
+HRpj
+application/vnd.ms-powerpoint.presentation.macroenabled.12
+pptm
+application/vnd.ms-powerpoint.slide.macroenabled.12
+sldm
+application/vnd.ms-powerpoint.slideshow.macroenabled.12
+ppsm
+application/vnd.ms-powerpoint.template.macroenabled.12
+RbbYs
+potm
+application/vnd.ms-printdevicecapabilities+xml
+application/vnd.ms-printing.printticket+xml
+A%,(
+application/vnd.ms-printschematicket+xml
+application/vnd.ms-project
+$RgJ
+application/vnd.ms-tnef
+application/vnd.ms-windows.devicepairing
+8Rl&
+application/vnd.ms-windows.nwprinting.oob
+8Rl2
+application/vnd.ms-windows.printerpairing
+0Rj2w
+application/vnd.ms-windows.wsd.oob
+application/vnd.ms-wmdrm.lic-chlg-req
+application/vnd.ms-wmdrm.lic-resp
+application/vnd.ms-wmdrm.meter-chlg-req
+qp0#
+application/vnd.ms-wmdrm.meter-resp
+Ku^0
+application/vnd.ms-word.document.macroenabled.12
+docm
+application/vnd.ms-word.template.macroenabled.12
+Rb"l
+dotm
+application/vnd.ms-works
+$Rg2
+application/vnd.ms-wpl
+,Ri&
+application/vnd.ms-xpsdocument
+application/vnd.msa-disk-image
+application/vnd.mseq
+mseq
+application/vnd.msign
+application/vnd.multiad.creator
+application/vnd.multiad.creator.cif
+(Rh^
+application/vnd.music-niff
+$Rg~.a;
+application/vnd.musician
+application/vnd.muvee.style
+RbfKW
+msty
+$Rg&
+application/vnd.mynfc
+taglet
+application/vnd.nacamar.ybrid+json
+application/vnd.ncd.control
+application/vnd.ncd.reference
+application/vnd.nearst.inv+json
+application/vnd.nebumind.line
+$RgbV
+application/vnd.nervana
+application/vnd.netfpx
+application/vnd.neurolanguage.nlu
+RbbS
+application/vnd.nimn
+application/vnd.nintendo.nitro.rom
+application/vnd.nintendo.snes.rom
+application/vnd.nitf
+nitf
+0Rjj
+application/vnd.noblenet-directory
+Rb.S
+application/vnd.noblenet-sealer
+application/vnd.noblenet-web
+,Ri2
+application/vnd.nokia.catalogs
+application/vnd.nokia.conml+wbxml
+,Ri~(
+application/vnd.nokia.conml+xml
+4Rk6
+application/vnd.nokia.iptv.config+xml
+application/vnd.nokia.isds-radio-presets
+application/vnd.nokia.landmark+wbxml
+application/vnd.nokia.landmark+xml
+application/vnd.nokia.landmarkcollection+xml
+application/vnd.nokia.n-gage.ac+xml
+application/vnd.nokia.n-gage.data
+Rc.mrN
+ngdat
+8Rl6
+application/vnd.nokia.n-gage.symbian.install
+n-gage
+application/vnd.nokia.ncd
+application/vnd.nokia.pcd+wbxml
+application/vnd.nokia.pcd+xml
+application/vnd.nokia.radio-preset
+rpst
+0RjnV(
+application/vnd.nokia.radio-presets
+rpss
+application/vnd.novadigm.edm
+(Rhn
+application/vnd.novadigm.edx
+application/vnd.novadigm.ext
+Rbv]
+application/vnd.ntt-local.content-share
+application/vnd.ntt-local.file-transfer
+application/vnd.ntt-local.ogw_remote-access
+application/vnd.ntt-local.sip-ta_remote
+application/vnd.ntt-local.sip-ta_tcp_stream
+4Rk^Q
+application/vnd.oasis.opendocument.chart
+@RnN
+application/vnd.oasis.opendocument.chart-template
+8Rl.X
+application/vnd.oasis.opendocument.database
+application/vnd.oasis.opendocument.formula
+@Rnvg
+application/vnd.oasis.opendocument.formula-template
+odft
+application/vnd.oasis.opendocument.graphics
+@RnJ
+application/vnd.oasis.opendocument.graphics-template
+application/vnd.oasis.opendocument.image
+application/vnd.oasis.opendocument.image-template
+RbJP
+application/vnd.oasis.opendocument.presentation
+application/vnd.oasis.opendocument.presentation-template
+<RmB*
+application/vnd.oasis.opendocument.spreadsheet
+Rb:F
+application/vnd.oasis.opendocument.spreadsheet-template
+application/vnd.oasis.opendocument.text
+<Rm.
+application/vnd.oasis.opendocument.text-master
+application/vnd.oasis.opendocument.text-template
+Rbz:
+8RlV
+application/vnd.oasis.opendocument.text-web
+application/vnd.obn
+application/vnd.ocf+cbor
+application/vnd.oci.image.manifest.v1+json
+,Ri6rBb
+application/vnd.oftn.l10n+json
+<Rm*.
+application/vnd.oipf.contentaccessdownload+xml
+<RmB
+application/vnd.oipf.contentaccessstreaming+xml
+0Rjva
+application/vnd.oipf.cspg-hexbinary
+,Rib9
+application/vnd.oipf.dae.svg+xml
+application/vnd.oipf.dae.xhtml+xml
+8Rl^A
+application/vnd.oipf.mippvcontrolmessage+xml
+application/vnd.oipf.pae.gem
+application/vnd.oipf.spdiscovery+xml
+application/vnd.oipf.spdlist+xml
+application/vnd.oipf.ueprofile+xml
+application/vnd.oipf.userprofile+xml
+application/vnd.olpc-sugar
+application/vnd.oma-scws-config
+application/vnd.oma-scws-http-request
+application/vnd.oma-scws-http-response
+HRp&]
+application/vnd.oma.bcast.associated-procedure-parameter+xml
+application/vnd.oma.bcast.drm-trigger+xml
+application/vnd.oma.bcast.imd+xml
+application/vnd.oma.bcast.ltkm
+application/vnd.oma.bcast.notification+xml
+~y=-
+application/vnd.oma.bcast.provisioningtrigger
+,Ri:
+application/vnd.oma.bcast.sgboot
+0Rjv
+application/vnd.oma.bcast.sgdd+xml
+,Ri~
+application/vnd.oma.bcast.sgdu
+@Rnz*(
+application/vnd.oma.bcast.simple-symbol-container
+application/vnd.oma.bcast.smartcard-trigger+xml
+application/vnd.oma.bcast.sprov+xml
+,Rij
+application/vnd.oma.bcast.stkm
+4RkB
+application/vnd.oma.cab-address-book+xml
+8Rlr
+application/vnd.oma.cab-feature-handler+xml
+application/vnd.oma.cab-pcc+xml
+4Rk^
+application/vnd.oma.cab-subs-invite+xml
+application/vnd.oma.cab-user-prefs+xml
+$Rg.
+application/vnd.oma.dcd
+application/vnd.oma.dcdc
+(Rhn^
+application/vnd.oma.dd2+xml
+RbVz
+,RiR
+application/vnd.oma.drm.risd+xml
+4Rk&x
+application/vnd.oma.group-usage-list+xml
+,RinF
+application/vnd.oma.lwm2m+cbor
+application/vnd.oma.lwm2m+json
+,RiJDw
+application/vnd.oma.lwm2m+tlv
+application/vnd.oma.pal+xml
+application/vnd.oma.poc.detailed-progress-report+xml
+application/vnd.oma.poc.final-report+xml
+application/vnd.oma.poc.groups+xml
+application/vnd.oma.poc.invocation-descriptor+xml
+application/vnd.oma.poc.optimized-progress-report+xml
+application/vnd.oma.push
+application/vnd.oma.scidm.messages+xml
+application/vnd.oma.xcap-directory+xml
+application/vnd.omads-email+xml
+application/vnd.omads-file+xml
+application/vnd.omads-folder+xml
+application/vnd.omaloc-supl-init
+application/vnd.onepager
+(Rhv
+application/vnd.onepagertamp
+application/vnd.onepagertamx
+application/vnd.onepagertat
+application/vnd.onepagertatp
+application/vnd.onepagertatx
+application/vnd.openblox.game+xml
+obgx
+application/vnd.openblox.game-binary
+application/vnd.openeye.oeb
+4Rk:<
+application/vnd.openofficeorg.extension
+4Rkf~
+application/vnd.openstreetmap.data+xml
+Rb^%
+application/vnd.opentimestamps.ots
+PRr6I
+application/vnd.openxmlformats-officedocument.custom-properties+xml
+application/vnd.openxmlformats-officedocument.customxmlproperties+xml
+HRpF
+application/vnd.openxmlformats-officedocument.drawing+xml
+application/vnd.openxmlformats-officedocument.drawingml.chart+xml
+application/vnd.openxmlformats-officedocument.drawingml.chartshapes+xml
+application/vnd.openxmlformats-officedocument.drawingml.diagramcolors+xml
+application/vnd.openxmlformats-officedocument.drawingml.diagramdata+xml
+application/vnd.openxmlformats-officedocument.drawingml.diagramlayout+xml
+application/vnd.openxmlformats-officedocument.drawingml.diagramstyle+xml
+TRs&>
+application/vnd.openxmlformats-officedocument.extended-properties+xml
+application/vnd.openxmlformats-officedocument.presentationml.commentauthors+xml
+XRt~
+application/vnd.openxmlformats-officedocument.presentationml.comments+xml
+\Ru>
+application/vnd.openxmlformats-officedocument.presentationml.handoutmaster+xml
+application/vnd.openxmlformats-officedocument.presentationml.notesmaster+xml
+application/vnd.openxmlformats-officedocument.presentationml.notesslide+xml
+XRtNn
+application/vnd.openxmlformats-officedocument.presentationml.presentation
+pptx
+application/vnd.openxmlformats-officedocument.presentationml.presentation.main+xml
+application/vnd.openxmlformats-officedocument.presentationml.presprops+xml
+application/vnd.openxmlformats-officedocument.presentationml.slide
+sldx
+TRsnKo
+application/vnd.openxmlformats-officedocument.presentationml.slide+xml
+XRt>
+application/vnd.openxmlformats-officedocument.presentationml.slidelayout+xml
+XRt~
+application/vnd.openxmlformats-officedocument.presentationml.slidemaster+xml
+TRsF
+application/vnd.openxmlformats-officedocument.presentationml.slideshow
+ppsx
+\Ruv
+application/vnd.openxmlformats-officedocument.presentationml.slideshow.main+xml
+application/vnd.openxmlformats-officedocument.presentationml.slideupdateinfo+xml
+application/vnd.openxmlformats-officedocument.presentationml.tablestyles+xml
+TRs.1
+application/vnd.openxmlformats-officedocument.presentationml.tags+xml
+application/vnd.openxmlformats-officedocument.presentationml.template
+potx
+\Ru:
+application/vnd.openxmlformats-officedocument.presentationml.template.main+xml
+application/vnd.openxmlformats-officedocument.presentationml.viewprops+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.calcchain+xml
+XRt>
+application/vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.comments+xml
+XRtZ
+application/vnd.openxmlformats-officedocument.spreadsheetml.connections+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.externallink+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.pivotcachedefinition+xml
+`Rvv
+application/vnd.openxmlformats-officedocument.spreadsheetml.pivotcacherecords+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.pivottable+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.querytable+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.revisionheaders+xml
+A1XK
+application/vnd.openxmlformats-officedocument.spreadsheetml.revisionlog+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.sharedstrings+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+RbJ)
+xlsx
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheetmetadata+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.table+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.tablesinglecells+xml
+PRrvN
+application/vnd.openxmlformats-officedocument.spreadsheetml.template
+xltx
+application/vnd.openxmlformats-officedocument.spreadsheetml.template.main+xml
+XRt.
+application/vnd.openxmlformats-officedocument.spreadsheetml.usernames+xml
+`RvZ"
+application/vnd.openxmlformats-officedocument.spreadsheetml.volatiledependencies+xml
+application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml
+DRo^
+application/vnd.openxmlformats-officedocument.theme+xml
+application/vnd.openxmlformats-officedocument.themeoverride+xml
+application/vnd.openxmlformats-officedocument.vmldrawing
+application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml
+application/vnd.openxmlformats-officedocument.wordprocessingml.document
+docx
+application/vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml
+\Ru&:
+application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml
+XRtv[T
+application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml
+application/vnd.openxmlformats-officedocument.wordprocessingml.fonttable+xml
+XRtF
+application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml
+application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml
+application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml
+application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml
+application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml
+TRs~+
+application/vnd.openxmlformats-officedocument.wordprocessingml.template
+dotx
+\Ruj
+application/vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml
+application/vnd.openxmlformats-officedocument.wordprocessingml.websettings+xml
+application/vnd.openxmlformats-package.core-properties+xml
+application/vnd.openxmlformats-package.digital-signature-xmlsignature+xml
+DRo:A
+application/vnd.openxmlformats-package.relationships+xml
+application/vnd.oracle.resource+json
+application/vnd.orange.indata
+application/vnd.osa.netdeploy
+application/vnd.osgeo.mapguide.package
+application/vnd.osgi.bundle
+application/vnd.osgi.dp
+,RiV
+application/vnd.osgi.subsystem
+,RiV
+application/vnd.otps.ct-kip+xml
+,Riv
+application/vnd.oxli.countgraph
+,Riv
+application/vnd.pagerduty+json
+ Rf2
+application/vnd.palm
+Rb.X
+oprc
+$Rg&
+application/vnd.panoply
+application/vnd.paos.xml
+(Rh6K^9
+application/vnd.patentdive
+,Ri.
+application/vnd.patientecommsdoc
+application/vnd.pawaafile
+ Rf"W
+application/vnd.pcos
+(Rh~
+application/vnd.pg.format
+(RhR
+application/vnd.pg.osasli
+8Rlv<
+application/vnd.piaccess.application-licence
+application/vnd.picsel
+efif
+(Rh^!
+application/vnd.pmi.widget
+8Rl2
+application/vnd.poc.group-advertisement+xml
+application/vnd.pocketlearn
+,RirX
+application/vnd.powerbuilder6
+application/vnd.powerbuilder6-s
+application/vnd.powerbuilder7
+application/vnd.powerbuilder7-s
+application/vnd.powerbuilder75
+,Ri2
+application/vnd.powerbuilder75-s
+application/vnd.preminet
+application/vnd.previewsystems.box
+,Rij
+application/vnd.proteus.magazine
+application/vnd.psfs
+4RkF
+application/vnd.publishare-delta-tree
+application/vnd.pvi.ptid1
+ptid
+application/vnd.pwg-multiplexed
+application/vnd.pwg-xhtml-print+xml
+application/vnd.qualcomm.brew-app-res
+,Ri~
+application/vnd.quarantainenet
+0RjV
+application/vnd.quark.quarkxpress
+Rb&^J
+application/vnd.quobject-quoxdocument
+application/vnd.radisys.moml+xml
+application/vnd.radisys.msml+xml
+application/vnd.radisys.msml-audit+xml
+8RlJE
+application/vnd.radisys.msml-audit-conf+xml
+application/vnd.radisys.msml-audit-conn+xml
+<Rm2
+application/vnd.radisys.msml-audit-dialog+xml
+application/vnd.radisys.msml-audit-stream+xml
+application/vnd.radisys.msml-conf+xml
+application/vnd.radisys.msml-dialog+xml
+application/vnd.radisys.msml-dialog-base+xml
+@RnV
+application/vnd.radisys.msml-dialog-fax-detect+xml
+eQ 4
+application/vnd.radisys.msml-dialog-fax-sendrecv+xml
+<RmJ_5
+application/vnd.radisys.msml-dialog-group+xml
+application/vnd.radisys.msml-dialog-speech+xml
+application/vnd.radisys.msml-dialog-transform+xml
+application/vnd.rainstor.data
+$Rg&#
+application/vnd.rapid
+application/vnd.rar
+application/vnd.realvnc.bed
+application/vnd.recordare.musicxml
+4Rk"
+application/vnd.recordare.musicxml+xml
+musicxml
+,Ri2#
+application/vnd.renlearn.rlprint
+,Ri~6!
+application/vnd.resilient.logic
+(Rh2
+application/vnd.restful+json
+application/vnd.rig.cryptonote
+cryptonote
+application/vnd.rim.cod
+application/vnd.rn-realmedia
+,RiNH
+application/vnd.rn-realmedia-vbr
+rmvb
+application/vnd.route66.link66+xml
+link66
+application/vnd.rs-274x
+application/vnd.ruckus.download
+application/vnd.s3sms
+application/vnd.sailingtracker.track
+ Rf~y
+application/vnd.sar
+application/vnd.sbm.cid
+$Rg&5{8
+application/vnd.sbm.mid2
+application/vnd.scribus
+(RhN
+application/vnd.sealed.3df
+(Rhv
+application/vnd.sealed.csf
+(Rh>
+application/vnd.sealed.doc
+application/vnd.sealed.eml
+application/vnd.sealed.mht
+application/vnd.sealed.net
+(Rh"
+application/vnd.sealed.ppt
+application/vnd.sealed.tiff
+(Rh~kNn
+application/vnd.sealed.xls
+application/vnd.sealedmedia.softseal.html
+application/vnd.sealedmedia.softseal.pdf
+$Rg&
+application/vnd.seemail
+application/vnd.seis+json
+application/vnd.sema
+sema
+ RfZ
+application/vnd.semd
+RbFJ
+semd
+application/vnd.semf
+semf
+application/vnd.shade-save-file
+4RkV
+application/vnd.shana.informed.formdata
+8RlJ
+application/vnd.shana.informed.formtemplate
+application/vnd.shana.informed.interchange
+4Rk:3
+application/vnd.shana.informed.package
+Rb&)7
+application/vnd.shootproof+json
+application/vnd.shopkick+json
+application/vnd.shp
+ Rf2
+application/vnd.shx
+,RiNp&
+application/vnd.sigrok.session
+application/vnd.simtech-mindmapper
+twds
+application/vnd.siren+json
+ Rf"
+application/vnd.smaf
+application/vnd.smart.notebook
+application/vnd.smart.teacher
+teacher
+application/vnd.snesdev-page-table
+application/vnd.software602.filler.form+xml
+application/vnd.software602.filler.form-xml-zip
+application/vnd.solent.sdkm+xml
+sdkm
+sdkd
+application/vnd.spotfire.dxp
+application/vnd.spotfire.sfs
+application/vnd.sqlite3
+application/vnd.sss-cod
+application/vnd.sss-dtf
+$RgR
+application/vnd.sss-ntf
+application/vnd.stardivision.calc
+application/vnd.stardivision.draw
+application/vnd.stardivision.impress
+0Rj~K
+application/vnd.stardivision.math
+application/vnd.stardivision.writer
+RbVGt9
+8Rl6)
+application/vnd.stardivision.writer-global
+0RjBYr
+application/vnd.stepmania.package
+smzip
+application/vnd.stepmania.stepchart
+,Rir
+application/vnd.street-stream
+(RhN
+application/vnd.sun.wadl+xml
+wadl
+(RhBG<
+application/vnd.sun.xml.calc
+RbFAG
+4Rkz?$
+application/vnd.sun.xml.calc.template
+application/vnd.sun.xml.draw
+\<_%
+application/vnd.sun.xml.draw.template
+application/vnd.sun.xml.impress
+application/vnd.sun.xml.impress.template
+(Rhf
+application/vnd.sun.xml.math
+application/vnd.sun.xml.writer
+4Rkv
+application/vnd.sun.xml.writer.global
+application/vnd.sun.xml.writer.template
+application/vnd.sus-calendar
+susp
+ Rf:80E
+application/vnd.svd
+application/vnd.swiftview-ics
+(RhF@%
+application/vnd.sycle+xml
+application/vnd.syft+json
+application/vnd.symbian.install
+sisx
+application/vnd.syncml+xml
+application/vnd.syncml.dm+wbxml
+application/vnd.syncml.dm+xml
+application/vnd.syncml.dm.notification
+0Rjr
+application/vnd.syncml.dmddf+wbxml
+,RiZ%'O 
+application/vnd.syncml.dmddf+xml
+application/vnd.syncml.dmtnds+wbxml
+application/vnd.syncml.dmtnds+xml
+4Rk"o
+application/vnd.syncml.ds.notification
+application/vnd.tableschema+json
+application/vnd.tao.intent-module-archive
+application/vnd.tcpdump.pcap
+Rb~M
+pcap
+4Rkf2
+application/vnd.think-cell.ppttc+json
+4RkJD
+application/vnd.tmd.mediaflex.api+xml
+ RfZ
+application/vnd.tml
+,Ri6g
+application/vnd.tmobile-livetv
+application/vnd.tri.onesource
+$Rgb#
+application/vnd.trid.tpt
+application/vnd.triscape.mxs
+application/vnd.trueapp
+Rbzr
+application/vnd.truedoc
+application/vnd.ubisoft.webplayer
+application/vnd.ufdl
+ufdl
+(Rhz$B
+application/vnd.uiq.theme
+$Rg&Lo
+application/vnd.umajin
+application/vnd.unity
+unityweb
+application/vnd.uoml+xml
+uoml
+,RiZ
+application/vnd.uplanet.alert
+0RjF
+application/vnd.uplanet.alert-wbxml
+4Rkb_o
+application/vnd.uplanet.bearer-choice
+application/vnd.uplanet.bearer-choice-wbxml
+application/vnd.uplanet.cacheop
+4Rk6+
+application/vnd.uplanet.cacheop-wbxml
+,Rin
+application/vnd.uplanet.channel
+application/vnd.uplanet.channel-wbxml
+(Rh^d
+application/vnd.uplanet.list
+0Rjv@
+application/vnd.uplanet.list-wbxml
+application/vnd.uplanet.listcmd
+application/vnd.uplanet.listcmd-wbxml
+,Ri.
+application/vnd.uplanet.signal
+$RgZ.
+application/vnd.uri-map
+application/vnd.valve.source.material
+ Rf.
+application/vnd.vcx
+Rbnq
+application/vnd.vd-study
+(Rhr
+application/vnd.vectorworks
+$Rg^P
+application/vnd.vel+json
+,RiZ
+application/vnd.verimatrix.vcas
+application/vnd.veritone.aion+json
+(RhbA
+application/vnd.veryant.thin
+application/vnd.ves.encrypted
+application/vnd.vidsoft.vidconference
+application/vnd.visio
+application/vnd.visionary
+application/vnd.vividence.scriptfile
+ RfJGj?
+application/vnd.vsf
+application/vnd.wap.sic
+application/vnd.wap.slc
+application/vnd.wap.wbxml
+wbxml
+application/vnd.wap.wmlc
+wmlc
+application/vnd.wap.wmlscriptc
+wmlsc
+$Rg"
+application/vnd.webturbo
+application/vnd.wfa.dpp
+application/vnd.wfa.p2p
+application/vnd.wfa.wsc
+application/vnd.windows.devicepairing
+application/vnd.wmc
+,RiN
+application/vnd.wmf.bootstrap
+application/vnd.wolfram.mathematica
+application/vnd.wolfram.mathematica.package
+application/vnd.wolfram.player
+RbZ@
+application/vnd.wordperfect
+ Rfr
+application/vnd.wqd
+Rb*6v
+application/vnd.wrq-hp3000-labelled
+application/vnd.wt.stf
+(Rhb
+application/vnd.wv.csp+wbxml
+application/vnd.wv.csp+xml
+application/vnd.wv.ssp+xml
+(Rh&
+application/vnd.xacml+json
+ Rff
+application/vnd.xara
+Rbf6
+application/vnd.xfdl
+xfdl
+application/vnd.xfdl.webform
+application/vnd.xmi+xml
+(Rh2X
+application/vnd.xmpie.cpkg
+application/vnd.xmpie.dpkg
+(RhF
+application/vnd.xmpie.plan
+(Rhj~
+application/vnd.xmpie.ppkg
+(Rh~
+application/vnd.xmpie.xlim
+application/vnd.yamaha.hv-dic
+,RiZ?
+application/vnd.yamaha.hv-script
+,RiV
+application/vnd.yamaha.hv-voice
+application/vnd.yamaha.openscoreformat
+Rb~O!
+application/vnd.yamaha.openscoreformat.osfpvg+xml
+Rc*B
+osfpvg
+application/vnd.yamaha.remote-setup
+0Rjn
+application/vnd.yamaha.smaf-audio
+Rb6x
+0Rj^
+application/vnd.yamaha.smaf-phrase
+0RjZ
+application/vnd.yamaha.through-ngn
+application/vnd.yamaha.tunnel-udpencap
+$Rg6I
+application/vnd.yaoweme
+application/vnd.yellowriver-custom-menu
+(Rh&bn
+application/vnd.youtube.yt
+application/vnd.zul
+zirz
+application/vnd.zzazz.deck+xml
+Rb&5
+application/voicexml+xml
+vxml
+(Rh:
+application/voucher-cms+json
+$RgZ
+application/vq-rtcpxr
+application/wasm
+wasm
+(RhvM7
+application/watcherinfo+xml
+,Ri.
+application/webpush-options+json
+application/whoispp-query
+application/whoispp-response
+application/widget
+application/winhlp
+application/wita
+application/wordperfect5.1
+application/wsdl+xml
+wsdl
+$RgB
+application/wspolicy+xml
+wspolicy
+application/x-7z-compressed
+RbBl
+$Rg~;c 
+application/x-abiword
+application/x-ace-compressed
+application/x-amf
+application/x-apple-diskimage
+application/x-arj
+RbBa
+application/x-authorware-bin
+(Rhf
+application/x-authorware-map
+Rbr2
+application/x-authorware-seg
+application/x-bcpio
+bcpio
+application/x-bdoc
+application/x-bittorrent
+torrent
+application/x-blorb
+blorb
+ RfbU
+application/x-bzip
+application/x-bzip2
+Rb^D
+application/x-cbr
+application/x-cdlink
+(Rh2
+application/x-cfs-compressed
+application/x-chat
+chat
+$RgN`e:
+application/x-chess-pgn
+application/x-chrome-extension
+application/x-cocoa
+$Rgz
+application/x-compress
+$Rg2
+application/x-conference
+application/x-cpio
+cpio
+ Rf2
+application/x-csh
+Rbvk<
+application/x-deb
+(RhZ
+application/x-debian-package
+udeb
+(Rhr
+application/x-dgc-compressed
+$Rgn
+application/x-director
+Rb&{Xn
+application/x-doom
+$Rg"
+application/x-dtbncx+xml
+application/x-dtbook+xml
+,Ri~
+application/x-dtbresource+xml
+application/x-dvi
+application/x-envoy
+application/x-eva
+$Rgba
+application/x-font-bdf
+$Rgr
+application/x-font-dos
+application/x-font-framemaker
+application/x-font-ghostscript
+RbJY|a
+application/x-font-libgrx
+application/x-font-linux-psf
+Rb2U
+application/x-font-pcf
+application/x-font-snf
+(RhF
+application/x-font-speedo
+application/x-font-sunos-news
+application/x-font-type1
+application/x-font-vfont
+application/x-freearc
+application/x-futuresplash
+application/x-gca-compressed
+application/x-glulx
+application/x-gnumeric
+gnumeric
+$Rg>
+application/x-gramps-xml
+gramps
+application/x-gtar
+gtar
+ Rf~
+application/x-gzip
+application/x-hdf
+$Rgr
+application/x-httpd-php
+application/x-install-instructions
+install
+(Rh:
+application/x-iso9660-image
+application/x-iwork-keynote-sffkey
+application/x-iwork-numbers-sffnumbers
+application/x-iwork-pages-sffpages
+application/x-java-archive-diff
+jardiff
+application/x-java-jnlp-file
+jnlp
+application/x-javascript
+application/x-keepass2
+kdbx
+application/x-latex
+latex
+application/x-lua-bytecode
+Rbj7
+luac
+application/x-lzh-compressed
+application/x-makeself
+application/x-mie
+application/x-mobipocket-ebook
+mobi
+application/x-mpegurl
+application/x-ms-application
+application
+(RhR
+application/x-ms-shortcut
+Rb2q;(
+application/x-ms-wmd
+application/x-ms-wmz
+application/x-ms-xbap
+xbap
+application/x-msaccess
+application/x-msbinder
+Rb&j
+application/x-mscardfile
+ RfJ
+application/x-msclip
+application/x-msdos-program
+$Rg*
+application/x-msdownload
+application/x-msmediaview
+application/x-msmetafile
+application/x-msmoney
+(Rh6
+application/x-mspublisher
+application/x-msschedule
+application/x-msterminal
+$RgN
+application/x-mswrite
+ Rfb
+application/x-netcdf
+application/x-ns-proxy-autoconfig
+ RfZ
+application/x-nzb
+application/x-perl
+ Rf.
+application/x-pilot
+application/x-pkcs12
+application/x-pkcs7-certificates
+,Ri^
+application/x-pkcs7-certreqresp
+(Rh~+D
+application/x-pki-message
+application/x-rar-compressed
+application/x-redhat-package-manager
+a~0#
+application/x-research-info-systems
+application/x-sea
+application/x-sh
+ Rf2
+application/x-shar
+shar
+,Riv
+application/x-shockwave-flash
+application/x-silverlight-app
+Rb6bq
+ RfZ
+application/x-sql
+$RgZ
+application/x-stuffit
+application/x-stuffitx
+sitx
+application/x-subrip
+application/x-sv4cpio
+RcJj
+sv4cpio
+ Rfb
+application/x-sv4crc
+sv4crc
+application/x-t3vm-image
+application/x-tads
+application/x-tar
+ Rf.
+application/x-tcl
+application/x-tex
+$Rg&
+application/x-tex-tfm
+application/x-texinfo
+texinfo
+texi
+ RfJ
+application/x-tgif
+Rbv!|
+application/x-ustar
+ustar
+(Rhz
+application/x-virtualbox-hdd
+application/x-virtualbox-ova
+Rbb}>
+application/x-virtualbox-ovf
+application/x-virtualbox-vbox
+vbox
+application/x-virtualbox-vbox-extpack
+vbox-extpack
+application/x-virtualbox-vdi
+application/x-virtualbox-vhd
+,Ri>-
+application/x-virtualbox-vmdk
+vmdk
+application/x-wais-source
+application/x-web-app-manifest+json
+webapp
+0Rj2
+application/x-www-form-urlencoded
+(Rhz
+application/x-x509-ca-cert
+application/x-x509-ca-ra-cert
+,RiV
+application/x-x509-next-ca-cert
+ Rf*o
+application/x-xfig
+application/x-xliff+xml
+application/x-xpinstall
+application/x-xz
+$RgB
+application/x-zmachine
+Rb.$
+RbZ=xD
+application/x400-bp
+application/xacml+xml
+application/xaml+xml
+RbN$bh
+xaml
+application/xcap-att+xml
+(Rh6
+application/xcap-caps+xml
+application/xcap-diff+xml
+$Rg2
+application/xcap-el+xml
+application/xcap-error+xml
+$Rg~
+application/xcap-ns+xml
+0RjB:z/$
+application/xcon-conference-info+xml
+application/xcon-conference-info-diff+xml
+application/xenc+xml
+xenc
+application/xhtml+xml
+RcjC
+xhtml
+application/xhtml-voice+xml
+$RgFh
+application/xliff+xml
+application/xml
+Rb^P
+application/xml-dtd
+application/xml-external-parsed-entity
+application/xml-patch+xml
+application/xmpp+xml
+application/xop+xml
+application/xproc+xml
+application/xslt+xml
+xslt
+application/xspf+xml
+xspf
+application/xv+xml
+mxml
+xhvml
+xvml
+application/yang
+yang
+(RhFoG
+application/yang-data+json
+(Rhb
+application/yang-data+xml
+(Rhn
+application/yang-patch+json
+(Rhz
+application/yang-patch+xml
+application/yin+xml
+application/zip
+Re~c
+application/zlib
+application/zstd
+,RiVG
+audio/1d-interleaved-parityfec
+audio/32kadpcm
+audio/3gpp
+3gpp
+Rd~KG
+audio/3gpp2
+audio/aac
+audio/ac3
+RdJ~
+audio/adpcm
+audio/amr
+audio/amr-wb
+Re^V
+audio/amr-wb+
+audio/aptx
+audio/asc
+audio/atrac-advanced-lossless
+audio/atrac-x
+audio/atrac3
+audio/basic
+RbjHE
+Rbvd
+audio/bv16
+Rdj&
+audio/bv32
+audio/clearmode
+audio/cn
+audio/dat12
+audio/dls
+ Rfn
+audio/dsr-es201108
+ Rf2
+audio/dsr-es202050
+audio/dsr-es202211
+ Rf*
+audio/dsr-es202212
+audio/dv
+audio/dvi4
+audio/eac3
+audio/encaprtp
+audio/evrc
+audio/evrc-qcp
+audio/evrc0
+audio/evrc1
+audio/evrcb
+audio/evrcb0
+audio/evrcb1
+Rd6C
+audio/evrcnw
+audio/evrcnw0
+audio/evrcnw1
+audio/evrcwb
+audio/evrcwb0
+audio/evrcwb1
+audio/evs
+RevM[
+audio/flexfec
+Rdz#
+audio/fwdred
+audio/g711-0
+audio/g719
+audio/g722
+audio/g7221
+audio/g723
+audio/g726-16
+audio/g726-24
+audio/g726-32
+Re6_
+audio/g726-40
+audio/g728
+audio/g729
+audio/g7291
+RdvE
+audio/g729d
+audio/g729e
+audio/gsm
+Ref_
+audio/gsm-efr
+audio/gsm-hr-08
+audio/ilbc
+audio/ip-mr_v2.5
+audio/isac
+audio/l16
+audio/l20
+Rd^N#
+audio/l24
+audio/l8
+audio/lpc
+audio/melp
+audio/melp1200
+audio/melp2400
+audio/melp600
+audio/mhas
+audio/midi
+midi
+audio/mobile-xmf
+Rb>o
+mxmf
+audio/mp3
+audio/mp4
+RbN!9
+mp4a
+Reb]
+audio/mp4a-latm
+audio/mpa
+audio/mpa-robust
+audio/mpeg
+mpga
+mp2a
+audio/mpeg4-generic
+audio/musepack
+Rd~x
+audio/ogg
+Rbf\
+opus
+audio/opus
+audio/parityfec
+audio/pcma
+audio/pcma-wb
+audio/pcmu
+ReRc
+audio/pcmu-wb
+audio/prs.sid
+audio/qcelp
+audio/raptorfec
+Rdnk( 
+audio/red
+$Rg2D
+audio/rtp-enc-aescm128
+audio/rtp-midi
+audio/rtploopback
+audio/rtx
+audio/s3m
+RbFK_F
+Rdj)
+audio/scip
+RdJC)
+audio/silk
+audio/smv
+audio/smv-qcp
+audio/smv0
+audio/sofa
+audio/sp-midi
+Rdv/
+audio/speex
+audio/t140c
+audio/t38
+audio/telephone-event
+audio/tetra_acelp
+audio/tetra_acelp_bb
+audio/tone
+audio/tsvcis
+audio/uemclip
+audio/ulpfec
+audio/usac
+Rd&!P
+audio/vdvi
+audio/vmr-wb
+audio/vnd.3gpp.iufp
+audio/vnd.4sb
+audio/vnd.audiokoz
+audio/vnd.celp
+audio/vnd.cisco.nse
+audio/vnd.cmles.radio-events
+audio/vnd.cns.anp1
+audio/vnd.cns.inf1
+audio/vnd.dece.audio
+uvva
+audio/vnd.digital-winds
+audio/vnd.dlna.adts
+audio/vnd.dolby.heaac.1
+$Rg~2
+audio/vnd.dolby.heaac.2
+audio/vnd.dolby.mlp
+ Rf&h[;
+audio/vnd.dolby.mps
+audio/vnd.dolby.pl2
+ RfNS
+audio/vnd.dolby.pl2x
+ Rf"w
+audio/vnd.dolby.pl2z
+$Rgf
+audio/vnd.dolby.pulse.1
+audio/vnd.dra
+audio/vnd.dts
+audio/vnd.dts.hd
+Rcf1
+dtshd
+audio/vnd.dts.uhd
+ RfNw
+audio/vnd.dvb.file
+audio/vnd.everad.plj
+ Rf^u
+audio/vnd.hns.audio
+audio/vnd.lucent.voice
+audio/vnd.ms-playready.media.pya
+(RhJ
+audio/vnd.nokia.mobile-xmf
+ Rfj
+audio/vnd.nortel.vbk
+audio/vnd.nuera.ecelp4800
+ecelp4800
+audio/vnd.nuera.ecelp7470
+ecelp7470
+audio/vnd.nuera.ecelp9600
+ecelp9600
+audio/vnd.octel.sbc
+audio/vnd.presonus.multitrack
+audio/vnd.qcelp
+(Rh&
+audio/vnd.rhetorex.32kadpcm
+audio/vnd.rip
+audio/vnd.rn-realaudio
+audio/vnd.sealedmedia.softseal.mpeg
+ Rfz
+audio/vnd.vmx.cvsd
+audio/vnd.wave
+audio/vorbis
+audio/vorbis-config
+audio/wav
+audio/wave
+audio/webm
+weba
+audio/x-aac
+audio/x-aiff
+aiff
+aifc
+audio/x-caf
+Rb>`sQ
+audio/x-flac
+flac
+Rdb?
+audio/x-m4a
+Re*wn
+audio/x-matroska
+audio/x-mpegurl
+audio/x-ms-wax
+audio/x-ms-wma
+RbB,
+ RfB
+audio/x-pn-realaudio
+(RhZ
+audio/x-pn-realaudio-plugin
+audio/x-realaudio
+audio/x-tta
+Rd>[j]
+audio/x-wav
+audio/xm
+chemical/x-cdx
+chemical/x-cif
+chemical/x-cmdf
+cmdf
+chemical/x-cml
+chemical/x-csml
+csml
+chemical/x-pdb
+chemical/x-xyz
+font/collection
+font/otf
+Rbzy
+RdrGt3
+font/sfnt
+font/ttf
+font/woff
+woff
+font/woff2
+woff2
+image/aces
+Rb"3
+image/apng
+apng
+image/avci
+avci
+Rd^}
+image/avcs
+avcs
+image/avif
+avif
+image/bmp
+image/cgm
+image/dicom-rle
+drle
+image/emf
+image/fits
+fits
+image/g3fax
+image/gif
+image/heic
+heic
+image/heic-sequence
+heics
+image/heif
+heif
+image/heif-sequence
+heifs
+image/hej2k
+Rb^K(
+hej2
+image/hsj2
+hsj2
+image/ief
+image/jls
+image/jp2
+jpg2
+image/jpeg
+jpeg
+image/jph
+image/jphc
+image/jpm
+image/jpx
+Rb.7
+image/jxr
+image/jxra
+jxra
+Rd2-,
+image/jxrs
+jxrs
+image/jxs
+Rb6Y0
+image/jxsc
+Rbb1
+jxsc
+image/jxsi
+jxsi
+image/jxss
+jxss
+image/ktx
+image/ktx2
+ktx2
+Rd^u
+image/naplps
+image/pjpeg
+image/png
+Re6S
+image/prs.btif
+btif
+image/prs.pti
+image/pwg-raster
+image/sgi
+image/svg+xml
+RbJ~
+svgz
+image/t38
+image/tiff
+tiff
+image/tiff-fx
+(Rhj
+image/vnd.adobe.photoshop
+image/vnd.airzip.accelerator.azv
+image/vnd.cns.inf2
+$RgNV
+image/vnd.dece.graphic
+uvvi
+Rb.j
+uvvg
+image/vnd.djvu
+Rb20
+djvu
+$Rg6
+image/vnd.dvb.subtitle
+image/vnd.dwg
+image/vnd.dxf
+Rb~jp
+image/vnd.fastbidsheet
+Ren2
+image/vnd.fpx
+Re.<
+image/vnd.fst
+,RiJ
+image/vnd.fujixerox.edmics-mmr
+image/vnd.fujixerox.edmics-rlc
+Rb2d
+image/vnd.globalgraphics.pgb
+image/vnd.microsoft.icon
+ReR|y
+image/vnd.mix
+$RgR
+image/vnd.mozilla.apng
+image/vnd.ms-dds
+image/vnd.ms-modi
+image/vnd.ms-photo
+image/vnd.net-fpx
+image/vnd.pco.b16
+image/vnd.radiance
+ Rf*X]
+image/vnd.sealed.png
+0RjV8uh"
+image/vnd.sealedmedia.softseal.gif
+0Rj>|
+image/vnd.sealedmedia.softseal.jpg
+image/vnd.svf
+$Rg"]
+image/vnd.tencent.tap
+image/vnd.valve.source.texture
+Rb~K
+ Rf:
+image/vnd.wap.wbmp
+wbmp
+image/vnd.xiff
+image/vnd.zbrush.pcx
+image/webp
+webp
+image/wmf
+image/x-3ds
+image/x-cmu-raster
+image/x-cmx
+image/x-freehand
+Rb&`
+Rbr$
+image/x-icon
+image/x-jng
+image/x-mrsid-image
+RbF5
+image/x-ms-bmp
+image/x-pcx
+image/x-pict
+image/x-portable-anymap
+image/x-portable-bitmap
+image/x-portable-graymap
+image/x-portable-pixmap
+Rd:e
+image/x-rgb
+RdRkw8
+image/x-tga
+image/x-xbitmap
+RbZu
+image/x-xcf
+image/x-xpixmap
+ Rfz
+image/x-xwindowdump
+Rb*he}
+message/cpim
+message/delivery-status
+message/disposition-notification
+disposition-notification
+$RgZ
+message/external-body
+$Rgf
+message/feedback-report
+message/global
+u8msg
+message/global-delivery-status
+u8dsn
+652'
+message/global-disposition-notification
+u8mdn
+message/global-headers
+u8hdr
+message/http
+message/imdn+xml
+message/news
+Rezs}2
+message/partial
+message/rfc822
+mime
+message/s-http
+message/sip
+message/sipfrag
+$RgF
+message/tracking-status
+message/vnd.si.simp
+message/vnd.wfa.wsc
+model/3mf
+model/e57
+model/gltf+json
+gltf
+ RfB^
+model/gltf-binary
+model/iges
+iges
+model/mesh
+mesh
+silo
+model/mtl
+model/obj
+RdbR
+model/step
+model/step+xml
+stpx
+model/step+zip
+stpz
+ Rf:9
+model/step-xml+zip
+stpxz
+model/stl
+model/vnd.collada+xml
+model/vnd.dwf
+model/vnd.flatland.3dml
+model/vnd.gdl
+model/vnd.gs-gdl
+RezmN
+model/vnd.gs.gdl
+model/vnd.gtw
+model/vnd.moml+xml
+model/vnd.mts
+model/vnd.opengex
+RbFvi_
+ogex
+0Rjb
+model/vnd.parasolid.transmit.binary
+9jq!
+model/vnd.parasolid.transmit.text
+ Rf*
+model/vnd.pytha.pyox
+4Rk>
+model/vnd.rosette.annotated-data-model
+model/vnd.sap.vds
+ Rfr)
+model/vnd.usdz+zip
+usdz
+model/vnd.valve.source.compiled-map
+model/vnd.vtu
+model/vrml
+Rb^p
+vrml
+model/x3d+binary
+x3db
+x3dbz
+$Rgr
+model/x3d+fastinfoset
+model/x3d+vrml
+x3dv
+Rcz;
+x3dvz
+ReV`
+model/x3d+xml
+Rb>Z
+x3dz
+model/x3d-vrml
+multipart/alternative
+$Rg^
+multipart/appledouble
+ Rf"1
+multipart/byteranges
+multipart/digest
+multipart/encrypted
+ Rf>
+multipart/header-set
+multipart/mixed
+multipart/multilingual
+ Rf>s(
+multipart/parallel
+multipart/related
+multipart/report
+Re6&
+multipart/signed
+multipart/vnd.bint.med-plus
+$RgJ
+multipart/voice-message
+(Rhr
+multipart/x-mixed-replace
+text/1d-interleaved-parityfec
+ Rfrp
+text/cache-manifest
+appcache
+RcBH
+manifest
+text/calendar
+text/calender
+text/cmd
+ Rf.
+text/coffeescript
+coffee
+litcoffee
+text/cql
+text/cql-expression
+text/cql-identifier
+text/css
+text/csv
+text/csv-schema
+text/directory
+text/dns
+text/ecmascript
+text/encaprtp
+text/enriched
+text/fhirpath
+text/flexfec
+text/fwdred
+text/gff3
+text/grammar-ref-list
+text/html
+html
+RcnI
+shtml
+text/jade
+jade
+text/javascript
+text/jcr-cnd
+text/jsx
+text/less
+less
+text/markdown
+markdown
+text/mathml
+text/mdx
+text/mizar
+text/n3
+text/parameters
+text/parityfec
+text/plain
+Rbbr&
+conf
+text/provenance-notation
+text/prs.fallenstein.rst
+ Rf2
+text/prs.lines.tag
+text/prs.prop.logic
+text/raptorfec
+text/red
+ RfJ/
+text/rfc822-headers
+text/richtext
+text/rtf
+text/rtp-enc-aescm128
+text/rtploopback
+RcB:~
+text/rtx
+RdnU
+text/sgml
+sgml
+text/shaclc
+text/shex
+shex
+text/slim
+Rb&b
+slim
+text/spdx
+spdx
+RdfY
+text/strings
+text/stylus
+Rc6d
+stylus
+styl
+text/t140
+text/tab-separated-values
+text/troff
+roff
+Rbj[
+Rd6D3
+text/turtle
+text/ulpfec
+text/uri-list
+uris
+urls
+text/vcard
+Rc~G'
+vcard
+RdVS
+text/vnd.a
+text/vnd.abc
+text/vnd.ascii-art
+text/vnd.curl
+Rb:k
+curl
+text/vnd.curl.dcurl
+dcurl
+text/vnd.curl.mcurl
+mcurl
+ Rfbwz
+text/vnd.curl.scurl
+scurl
+text/vnd.debian.copyright
+text/vnd.dmclientscript
+$RgV
+text/vnd.dvb.subtitle
+text/vnd.esmertec.theme-descriptor
+text/vnd.familysearch.gedcom
+ Rfn+
+text/vnd.ficlab.flt
+text/vnd.fly
+RbjE
+$Rgf
+text/vnd.fmi.flexstor
+text/vnd.gml
+ Rf.gS
+text/vnd.graphviz
+text/vnd.hans
+text/vnd.hgl
+ Rf2Hp
+text/vnd.in3d.3dml
+3dml
+text/vnd.in3d.spot
+spot
+text/vnd.iptc.newsml
+text/vnd.iptc.nitf
+text/vnd.latex-z
+$RgV
+text/vnd.motorola.reflex
+text/vnd.ms-mediapackage
+text/vnd.net2phone.commcenter.command
+0RjR
+text/vnd.radisys.msml-basic-layout
+text/vnd.senx.warpscript
+text/vnd.si.uricatalogue
+Re.Ud
+text/vnd.sosi
+,Ri^Dn
+text/vnd.sun.j2me.app-descriptor
+text/vnd.trolltech.linguist
+Refy
+text/vnd.wap.si
+Reb-X
+text/vnd.wap.sl
+text/vnd.wap.wml
+text/vnd.wap.wmlscript
+wmls
+text/vtt
+RbfUt
+text/x-asm
+text/x-c
+text/x-component
+RbF!
+text/x-fortran
+text/x-gwt-rpc
+text/x-handlebars-template
+ RfZH
+text/x-java-source
+RbF`JY
+java
+text/x-jquery-tmpl
+text/x-lua
+text/x-markdown
+text/x-nfo
+text/x-opml
+opml
+text/x-org
+text/x-pascal
+text/x-processing
+text/x-sass
+sass
+text/x-scss
+scss
+text/x-setext
+Rb"i
+text/x-sfv
+Rbf|s
+text/x-suse-ymp
+text/x-uuencode
+text/x-vcalendar
+text/x-vcard
+text/xml
+,RiV?
+text/xml-external-parsed-entity
+RdJ?v5
+text/yaml
+yaml
+,Rib
+video/1d-interleaved-parityfec
+video/3gpp
+video/3gpp-tt
+video/3gpp2
+video/av1
+video/bmpeg
+video/bt656
+video/celb
+video/dv
+video/encaprtp
+video/ffv1
+video/flexfec
+video/h261
+h261
+video/h263
+Rb^&
+h263
+video/h263-1998
+ReZx
+video/h263-2000
+Rdn$]
+video/h264
+h264
+ReB&=
+video/h264-rcdo
+video/h264-svc
+video/h265
+ Rf2
+video/iso.segment
+video/jpeg
+RbzR
+jpgv
+video/jpeg2000
+video/jpm
+jpgm
+video/jxsv
+video/mj2
+Rb~2l
+mjp2
+Rd>'
+video/mp1s
+Rd2E
+video/mp2p
+video/mp2t
+video/mp4
+mp4v
+mpg4
+video/mp4v-es
+video/mpeg
+mpeg
+video/mpeg4-generic
+video/mpv
+video/nv
+video/ogg
+Re^5
+video/parityfec
+video/pointer
+video/quicktime
+RbN3
+video/raptorfec
+video/raw
+$RgF
+video/rtp-enc-aescm128
+video/rtploopback
+video/rtx
+video/scip
+video/smpte291
+video/smpte292m
+Rd"I
+video/ulpfec
+video/vc1
+video/vc2
+video/vnd.cctv
+ RfN
+video/vnd.dece.hd
+uvvh
+video/vnd.dece.mobile
+uvvm
+video/vnd.dece.mp4
+video/vnd.dece.pd
+uvvp
+video/vnd.dece.sd
+uvvs
+video/vnd.dece.video
+Rb:B
+uvvv
+video/vnd.directv.mpeg
+video/vnd.directv.mpeg-tts
+video/vnd.dlna.mpeg-tts
+video/vnd.dvb.file
+video/vnd.fvt
+Rbbg.
+video/vnd.hns.video
+tq{$
+video/vnd.iptvforum.1dparityfec-1010
+video/vnd.iptvforum.1dparityfec-2005
+0Rj.
+video/vnd.iptvforum.2dparityfec-1010
+video/vnd.iptvforum.2dparityfec-2005
+video/vnd.iptvforum.ttsavc
+(Rh^Ig
+video/vnd.iptvforum.ttsmpeg2
+$Rg*
+video/vnd.motorola.video
+video/vnd.motorola.videop
+video/vnd.mpegurl
+video/vnd.ms-playready.media.pyv
+video/vnd.nokia.interleaved-multimedia
+video/vnd.nokia.mp4vr
+(RhB
+video/vnd.nokia.videovoip
+video/vnd.objectvideo
+video/vnd.radgamettools.bink
+video/vnd.radgamettools.smacker
+$RgJ
+video/vnd.sealed.mpeg1
+video/vnd.sealed.mpeg4
+video/vnd.sealed.swf
+video/vnd.sealedmedia.softseal.mov
+video/vnd.uvvu.mp4
+uvvu
+video/vnd.vivo
+ Rf.
+video/vnd.youtube.yt
+video/vp8
+video/vp9
+Rdvo
+video/webm
+Rb^Y
+webm
+video/x-f4v
+RbjP
+video/x-fli
+video/x-flv
+video/x-m4v
+video/x-matroska
+Rb:|h
+mk3d
+Rd6!Z
+video/x-mng
+RbnS
+video/x-ms-asf
+video/x-ms-vob
+video/x-ms-wm
+video/x-ms-wmv
+video/x-ms-wmx
+Rezk
+video/x-ms-wvx
+video/x-msvideo
+video/x-sgi-movie
+movie
+video/x-smv
+x-conference/x-cooltalk
+x-shader/x-fragment
+x-shader/x-vertex
+XSRF-TOKEN
+Rd*C-
+X-XSRF-TOKEN
+0Rjr
+application/json, text/plain, */*
+validators
+RcBX
+getUri
+Axios
+Rc2c
+VERSION
+toFormData
+Cancel
+Rc&f
+spread
+Re"n
+enableLowLevel
+maxFileSize
+maxMsglength`
+sys.boot_completed
+ Rfn
+PROP_BOOT_COMPLETED
+$RgB
+sys.device_boot_complete
+PROP_DEVICE_BOOT_COMPLETE
+sys.device_open
+persist.sys.usb.id
+ RfN
+ro.build.display.id
+PROP_FIRMWARE_VERSION
+android.intent.action.BY_PC_ON
+android.intent.action.BY_PC_OFF       
+8Rlb
+BROADCAST_ANDROID_INTENT_ACTION_BY_PC_OFF
+/sdcard/pcMedia
+/sdcard/pcMediaPreset
+/sdcard/pcMediaFilter
+HWi_FLAG_IDE_SAFE
+HWi_FLAG_SMBUS_ENABLE
+HWi_FLAG_DRIVE_SCAN_DISABLE
+HWi_FLAG_EC_DISABLE
+update.zip
+C00P01S0210
+projectCode
+1c75
+1c76
+isWithScreenG
+Rd2#S
+screenStatus
+enableSyncStatusG
+Re:e
+enableTransport
+enableScreenRotationAlgorithm
+0b05
+C05P01S0210
+1D6B
+0104
+4Rk^
+/sdcard/catchlog/log/hidserver_log.txt
+/sdcard/catchlog/log/home_log.txt
+watch
+requestSingleInstanceLock
+whenReady
+window-all-closed
+%0+8
+(5T'
+%a~%b
+9'sN
+ERROR_CODE_SERIALPORT_COM_CONFILICT:[
+ERROR_CODE_SERIALPORT_COM_PERMISSION_DENIED:[
+ERROR_CODE_ADB_SERVER_START_FAILED:[ADB
+ERROR_CODE_ADB_CONNECT_SERVER_FAILED:[ADB
+ERROR_CODE_ADB_DEVICE_STATUS_ERROR:[ADB
+ERROR_CODE_HWINFO_INIT_FAILED:[HWINFO SDK
+ERROR_CODE_MEDIA_STATION_OPEARTION_FAILED:[
+ERROR_CODE_MEDIA_TRANSPORT_FAILED:[
+ERROR_CODE_UPGRADE_FIRMWARE_DOWNLOAD_FAILED:[
+ERROR_CODE_UPGRADE_FIRMWARE_MD5_CHECK_FAILED:[
+: MD5
+ERROR_CODE_UPGRADE_FIRMWARE_DEVICE_DISCONNTED:[
+ERROR_CODE_UPGRADE_FIRMWARE_TRANSPORT_FAILED:[
+ERROR_CODE_UPGRADE_FIRMWARE_NOTITY:[
+BYDevice sendMsg
+It is incompatiable mode. app version: 
+tina
+RYUO-3D
+RYUO-
+RYUO-
+500MB
+RYUO-
+RYUO-
+RYUO-
+RYUO-
+RYUO-3D
+RYUO-
+RYUO-
+500MB
+RYUO-
+RYUO-
+RYUO-

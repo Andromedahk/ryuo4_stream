@@ -1,0 +1,17 @@
+﻿����δ����� java.lang.Throwable
+�����ӳٵ�δ����� java.lang.Throwable
+���ڳ�ʼ��jdb...
+> ���öϵ�com.baiyi.homeui.hshomeui.MainActivity.onRefreshUI
+> > δ�����κζ���
+δָ���̡߳�
+> > δ�����κζ���
+�������ѹرա�
+û�е�ǰ�߳�
+û�е�ǰ�߳�
+ this = ��ֵ
+>  this.main_video1.setVideoPath("http://127.0.0.1:18080/live.ts") = ��ֵ
+> û�е�ǰ�߳�
+û�е�ǰ�߳�
+ this.main_video1 = ��ֵ
+>  this.main_video1.start() = ��ֵ
+> 

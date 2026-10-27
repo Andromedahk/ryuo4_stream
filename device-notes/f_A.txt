@@ -1,0 +1,1 @@
+color=c=0xFF0000:s=1920x960:r=30:d=1.2,drawtext=fontfile=C\:/Windows/Fonts/arialbd.ttf:text='FRAME A':fontsize=200:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2

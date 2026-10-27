@@ -1,0 +1,36 @@
+# ============================================================
+# 大文件 / 生成物 / 工具链：不纳入 git，见 _backup/ 内的清单与备份 zip
+# ============================================================
+
+# 固件与构建产物（体积 0.5~2.3 GB）
+/firmware/
+/firmware-build/
+
+# 第三方工具链（JDK / Ghidra / Android SDK / Node，约 2.7 GB）
+/tools/
+
+# 反编译中间产物
+/host-re/asar/
+
+# 抓流 / 测试样本（.ts 分片，约 53 MB）
+/stream_test/
+
+# 设备拉取的大文件
+/device-notes/apk/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 媒体文件（录屏）
+*.mp4
+*.mkv
+*.mov
+
+# 大文件备份产物（本地手动备份用，不入库）
+/_backup/
+
+# 操作系统杂项
+Thumbs.db
+desktop.ini
+.DS_Store

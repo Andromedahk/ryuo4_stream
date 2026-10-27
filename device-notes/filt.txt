@@ -1,0 +1,4 @@
+color=c=0x0a1020:s=1920x960:r=30:d=12,
+drawtext=fontfile=C\:/Windows/Fonts/arialbd.ttf:text='CUSTOM CONTENT':fontsize=120:fontcolor=white:x=(w-text_w)/2:y=h/2-220,
+drawtext=fontfile=C\:/Windows/Fonts/arialbd.ttf:text='frame %{n}':fontsize=90:fontcolor=0x00FF00:x=(w-text_w)/2:y=h/2-40,
+drawtext=fontfile=C\:/Windows/Fonts/arialbd.ttf:text='ADB INJECT TEST':fontsize=70:fontcolor=0xFFAA00:x=(w-text_w)/2:y=h/2+120
